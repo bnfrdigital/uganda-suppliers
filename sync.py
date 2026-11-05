@@ -1,7 +1,7 @@
 import json, os, urllib.request
 
-TOKEN = os.environ["NOTION_TOKEN"]
-DB_ID = os.environ["NOTION_DB_ID"]
+TOKEN = os.environ["NOTION_TOKEN"].strip()
+DB_ID = os.environ["NOTION_DB_ID"].strip()
 
 def query(cursor=None):
     body = {"page_size": 100}
