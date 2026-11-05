@@ -1,4 +1,4 @@
-# Uganda responsible tourism supplier database
+# Ideas database
 115 entries
 
 ## Rural Tourism Uganda
