@@ -3,8 +3,12 @@ import json, os, urllib.request
 TOKEN = os.environ["NOTION_TOKEN"].strip()
 DB_ID = os.environ["NOTION_DB_ID"].strip()
 
+# Team-only fields: kept in Notion, left out of the public file.
+# Add or remove names here (they must match the Notion property names exactly).
+EXCLUDE = {"Status", "Contributor", "Source"}
+
 def query(cursor=None):
-    body = {"page_size": 100}
+    body = {"page_size": 100, "sorts": [{"property": "Name", "direction": "ascending"}]}
     if cursor:
         body["start_cursor"] = cursor
     req = urllib.request.Request(
@@ -33,6 +37,10 @@ def text(prop):
         return v["start"] if v else ""
     if t == "people":
         return ", ".join(x.get("name", "") for x in v)
+    if t == "unique_id":
+        if not v or v.get("number") is None:
+            return ""
+        return f'{v["prefix"]}-{v["number"]:04d}' if v.get("prefix") else str(v["number"])
     if t in ("number", "checkbox", "url", "email", "phone_number"):
         return "" if v is None else str(v)
     return ""
@@ -45,13 +53,13 @@ while True:
         break
     cursor = data["next_cursor"]
 
-lines = ["# Ideas database", f"{len(rows)} entries", ""]
+lines = ["# Uganda responsible tourism suppliers", f"{len(rows)} entries", ""]
 for row in rows:
     props = row["properties"]
     title = next((text(p) for p in props.values() if p["type"] == "title"), "Untitled")
     lines.append(f"## {title}")
     for name, p in props.items():
-        if p["type"] != "title":
+        if p["type"] != "title" and name not in EXCLUDE:
             val = text(p)
             if val:
                 lines.append(f"- {name}: {val}")
