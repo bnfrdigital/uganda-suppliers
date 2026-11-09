@@ -1,1506 +1,1751 @@
-# Ideas database
-115 entries
-
-## Rural Tourism Uganda
-- GPS Co-ordinators: 1.185, 29.845
-- Short Supplier Bio: provides visitors with a unique and immersive experience, allowing them to engage with rural communities and natural landscapes in Rubanda District. Through a remote collaboration with PUM expert Rob van Loon, the initiative has gained digital visibility and enhanced its offerings, paving the way for sustainable rural development.
- 
-- Led By: Private
-- Email : cuthbert.tukundane@pum.nl
-- Contact number of Supplier: 772850479
-- Specific Experiences Offered: provides visitors with a unique and immersive experience, allowing them to engage with rural communities and natural landscapes in Rubanda District. Through a remote collaboration with PUM expert Rob van Loon, the initiative has gained digital visibility and enhanced its offerings, paving the way for sustainable rural development.
- 
-- Types of activities offered: Farm & Agricultural Tourism, Cultural Heritage & Traditions
-- Destination: Bwindi
-- Website : https://www.pum.nl/project/rural-tourism-uganda-adventures-transforming-communities/
-- Type of supplier: Activities
-
-## Gorilla Highlands Coffee
-- GPS Co-ordinators: -1.28309, 29.68963
-- Short Supplier Bio: Experience the magic of Uganda with Gorilla Highlands Coffee Association (GHC)! Our sustainable tours offer a unique opportunity to discover the beauty and culture of the region, learn about the coffee industry and local culture, and make a positive impact on the community and the environment.
-- Led By: Private
-- Email : info@gorillahighlandscoffee.com
-- Contact number of Supplier: 787408988
-- Specific Experiences Offered: Cycling tours, Coffee tours, Gorilla trekking
-- Types of activities offered: Farm & Agricultural Tourism, Outdoor Adventures, Nature and Wildlife
-- Destination: Kisoro
-- Website : https://www.gorillahighlands.coffee/
-- Type of supplier: Activities
-
-## Three heroes - Kagando
-- GPS Co-ordinators: 0.06518, 29.89888
-- Led By: Private
-- Specific Experiences Offered: Learning about the war history of the bakonzo people 
-- Types of activities offered: Cultural Heritage & Traditions
-- Destination: Rwenzori - Albertine
-- Website : N/A
-- Type of supplier: Activities
-
-## Karoro falls 
-- GPS Co-ordinators: 0.11988. 29.90422
-- Led By: Government
-- Email : N/A
-- Contact number of Supplier: 706219097
-- Specific Experiences Offered: Trail to and around water falls
-- Types of activities offered: Nature and Wildlife
-- Destination: Rwenzori - Albertine
-- Website : N/A
-- Type of supplier: Activities
-
-## Ssebwe water falls
-- GPS Co-ordinators: 0.35572 , 32.86297
-- Led By: Government
-- Email : visitruboni@gmail.com
-- Contact number of Supplier: 752503445
-- Specific Experiences Offered: Trekking through the village hills and park forests to the falls  
-- Types of activities offered: Nature and Wildlife
-- Destination: Rwenzori - Albertine
-- Website : N/A
-- Type of supplier: Activities
-
-## Cycad Village Uganda
-- GPS Co-ordinators: -0.0320083232729891, 30.297441352394735
-- Short Supplier Bio:  
-- Led By: Private
-- Email : mwebingwa@gmail.com
-- Contact number of Supplier: 703244336
-- Specific Experiences Offered: Hiking, Accomodation, Community walks, Culinary experience, Boat ride, Fishing, Coffee experience
-- Types of activities offered: Nature and Wildlife, Outdoor Adventures, Cultural Heritage & Traditions, Food and Culinary
-- Destination: Western
-- Website : N/A
-- Type of supplier: Activities, Accommodation
-
-## Deo’s Homestead Tour
-- GPS Co-ordinators: -0.2818341735410965, 29.96433014540331
-- Short Supplier Bio: Learn about managing human–wildlife conflict. Deo spends nights in a small hut watching
-for hungry elephants that could destroy his harvest in minutes. See how he burns elephant
-dung mixed with homegrown chilli to keep animals away and how he beats a jerry can to
-alert neighbours when crop raiders approach. Visitors may help repair the trench and try
-using a machete to prune banana plants, for example.
-- Led By: Private
-- Email : N/A
-- Contact number of Supplier: 781201368
-- Specific Experiences Offered: Learn how to manage human-wildlife conflict, riding a Kihihi bike, homestead visit
-- Types of activities offered: Nature and Wildlife
-- Destination: Queen Elizabeth National Park
-- Website : https://www.muzungubloguganda.com/conservation/community-tourism-ishasha-uganda/
-- Type of supplier: Activities
-
-## Kara-tunga
-- GPS Co-ordinators: 2.5002450582115157, 34.681505673293664
-- Short Supplier Bio: Morungole Eco-Camp is a historical resting place for the hunters-gatherers community and is located at the foot of Mount Morungole. It’s located amid the woodland and offers spectacular views and direct access to the mountain summit using ancestral trails.
- 
-The capacity is;
-6 Non-self-contained tents
-Each 2 long single beds (100x210cm)
-
-- Led By: Community
-- Email : info@kara-tunga.com
-- Contact number of Supplier: 776933901
-- Specific Experiences Offered: Morungole eco camp
-- Types of activities offered: General Experiences
-- Destination: Karamoja
-- Website : https://www.kara-tunga.com/eco-camps/
-- Type of supplier: Accommodation
-
-## Kara-tunga
-- GPS Co-ordinators: 2.5002450582115157, 34.681505673293664
-- Short Supplier Bio: Namoni lodge is located at the boundary of the National Park with a stunning panoramic view of the surrounding area. The camp aims at creating opportunities for the community as well as travellers to experience more than wildlife.
- 
-- Led By: Community
-- Email : info@kara-tunga.com
-- Contact number of Supplier: 776833901
-- Specific Experiences Offered: Namoni lodge
-- Types of activities offered: General Experiences
-- Destination: Karamoja
-- Website : https://www.kara-tunga.com/eco-camps/
-- Type of supplier: Accommodation
-
-## Kara-Tunga Eco camps
-- GPS Co-ordinators: 2.5002450582115157, 34.681505673293664
-- Short Supplier Bio: Timu Eco-Camp is located on the East African Rift escapement at an altitude of 2,000m. The location offers a breathtaking view of the surrounding landscape, amidst the indigenous ik community.
-- Led By: Youth, Community
-- Email : info@kara-tunga.com
-- Contact number of Supplier: 776833901
-- Specific Experiences Offered: Timu Eco camp
-- Types of activities offered: Food and Culinary, General Experiences, Cultural Heritage & Traditions, Nature and Wildlife, Art and Handicrafts
-- Destination: Karamoja
-- Website : https://www.kara-tunga.com/eco-camps/
-- Type of supplier: Accommodation
-
-## Kara-tunga Eco camps
-- GPS Co-ordinators: 2.5002450582115157, 34.681505673293664
-- Short Supplier Bio: he camp is located at the beating heart of the Karamoja region, on the slopes of the volcanic massive Mount Moroto.
-The possible activities around are;
-Walks and Hikes
-Cultural experiences
-Wildlife viewing
-- Led By: Community
-- Email : info@kara-tunga.com
-- Contact number of Supplier: 776833901
-- Specific Experiences Offered: Moroto Eco camp
-- Types of activities offered: Nature and Wildlife, Outdoor Adventures, Food and Culinary, Art and Handicrafts
-- Destination: Karamoja, Moroto
-- Website : https://www.kara-tunga.com/eco-camps/
-- Type of supplier: Accommodation, Activities
-
-## Kara-tunga Eco camps
-- GPS Co-ordinators: 2.52729053426299, 34.665600365880564
-- Short Supplier Bio: At the slopes of the majestic Mount Kadam, overlooking the fast wilderness of Pian Upe and surrounded by the Pokot and Pian communities.
- Possible activities are;
-Walks and Hikes
-Cultural experiences
-Wildlife viewing
-- Led By: Community
-- Email : info@kara-tunga.com
-- Contact number of Supplier: 776833901
-- Specific Experiences Offered: Pian Upe eco camp
-- Types of activities offered: Nature and Wildlife, Food and Culinary, Outdoor Adventures, Cultural Heritage & Traditions
-- Destination: Karamoja
-- Website : https://www.kara-tunga.com/eco-camps/
-- Type of supplier: Accommodation
-
-## Kara-tunga Tours
-- GPS Co-ordinators: 2.52729053426299, 34.665600365880564
-- Short Supplier Bio: Mount Moroto Hiking & Trekking
-Hiking and trekking Mount Moroto (3,083m) on your Uganda Safari is an exciting off-the-beaten-path alternative to other mountains in the country.
- 
-
-Reasons to Hike Mount Moroto
-Our Mount Moroto (3,083m) hiking and trekking tour offers a combination of experiencing the unique culture of the indigenous Tepeth tribe living on the mountain, stunning panoramic views of Uganda as well as Kenya, unique-for-Uganda vegetation and unforgettable wild camping adventure.
-
-Mount Moroto, a solitary extinct volcanic mountain, towers over the rugged landscape of Karamoma in northeastern Uganda, reaching an altitude of approximately 3,083 meters above sea level. The mountain’s unique ecosystem supports a variety of vegetation, ranging from dry thorn savanna at its base to African Montane woodlands and rocky outcrops at higher elevations. This mountain hosts a wide variety of species wherefrom many hold traditional medicinal and nutritional value for the community.
-
-Mount Moroto is the ancestral home of the Tepeth people, a small and distinct ethnic group who have adapted their lives to the mountain’s unique environment. The Karamojong pastoralists surround the base of the mountain, creating a cultural diversity that adds richness to any trek. Hiking Mount Moroto provides a rare opportunity to engage with the Tepeth people, learn about their traditions, and witness their unique way of life.
-- Led By: Community
-- Email : info@kara-tunga.com
-- Contact number of Supplier: 776833901
-- Specific Experiences Offered: Mount Moroto Hiking
-- Types of activities offered: Nature and Wildlife
-- Destination: Karamoja, Moroto
-- Website : https://www.kara-tunga.com/tours-category/hiking-trekking/
-- Type of supplier: Activities
-
-## Kara-tunga Tours
-- GPS Co-ordinators: 2.52729053426299, 34.665600365880564
-- Short Supplier Bio: Mount Kadam Hiking & Trekking
-Hiking and trekking Mount Kadam (3,063m) on your Uganda Safari is an exciting off-the-beaten-path alternative to other mountains in the country.
-Reasons to hike Mount Kadam?
-Our Mount Kadam (3,063m) hiking and trekking expeditions combine rich cultural encounters with Uganda’s highland people, breathtaking views and unique sights along the trails, and unique campsites perfect for enjoying sunsets, stargazing, and sunrises over the Karamoja plains.
-
-Mount Kadam, an ancient volcanic mass, rises from the plains of southern Karamoja, ranging in altitude from approximately 1,160 to 3,068 meters above sea level. The mountain’s varied vegetation includes dry montane forest and forest savanna mosaic at higher altitudes (covering 50% of the area), with the remaining area comprised of semi-evergreen thicket. It’s also home to a high concentration of edible plant species (vegetables and fruits) and medicinal herbs.
-
-Mount Kadam is surrounded by five ethnic groups: the Pian clan of the Karamojong tribe to the north and east, the Pokot to the southeast, the Sebei to the south, the Iteso to the west, and the Tepeth tribe, who live alongside the Kadama people on the mountain itself.
-- Led By: Community
-- Email : info@kara-tunga.com
-- Contact number of Supplier: 776833901
-- Specific Experiences Offered: Mount Kadam hiking
-- Types of activities offered: Nature and Wildlife
-- Destination: Karamoja
-- Website : https://www.kara-tunga.com/tours/mount-kadam-hiking-trekking/
-- Type of supplier: Activities
-
-## Kara-tunga Tours
-- GPS Co-ordinators: 2.52729053426299, 34.665600365880564
-- Short Supplier Bio: Mount Napak Hiking & Trekking
-Hiking and trekking Mount Napak (2,520m) on your Uganda Safari is an exciting off-the-beaten-path alternative to other mountains in the country.
-Reasons to Hike Mount Napak
-Mount Napak (2,520m) is Karamoja’s third highest mountain and known for it’s steepness and lush vegetation that makes it the toughest mountain to climb in northeast Uganda. Due it’s location bordering the Pian Upe Wildlife Reserve, you’re up for breathtaking panoramic views of the Karamoja planes and distance mountain ranges.
-
-Beyond the rewarding views and walking through the untouched forest, Mount Napak offers a cultural experience. The fertile foothills are home to the Bokora Clan of the Karamojong people. Your local guides will introduce you to several villages along the trail, sharing insights into the lifestyle and customs of the community.
-- Led By: Community
-- Email : info@kara-tunga.com
-- Contact number of Supplier: 776833901
-- Specific Experiences Offered: Mount Napak Hiking, ( Halfday, and full day hikes
-- Types of activities offered: Nature and Wildlife, General Experiences
-- Destination: Karamoja
-- Website : https://www.kara-tunga.com/tours/mount-napak-hiking-trekking/
-- Type of supplier: Other Supplier, Activities
-
-## Kara-tunga Tours
-- GPS Co-ordinators: 2.52729053426299, 34.665600365880564
-- Short Supplier Bio: Mount Morungole Hiking & Trekking
-Combine your Kidepo Valley Safari with a hiking adventure to Uganda’s most remote living community called the ‘Ik’ on Mount Morungole (2,685m).
-Complementing a wildlife safari in Kidepo Valley National Park is this hiking adventure found on Mount Morungole, a place also inhabited by the mysterious Ik tribe.
-
-Mount Morungole provides both stunning and dramatic views, coupled with a rare opportunity to engage with the Ik community, an interaction often cited as a key part of a visit to Uganda’s far northeast. The Ik stand out as Uganda’s most geographically isolated community, deeply rooted in their ancient traditions.
-
-Towering at 2,685m, Mount Morungole ranks among the Karamoja sub-region’s four highest mountain ranges. Contrary to some online information suggesting the Kalunya summit is closed to visitors for spiritual reasons, our discussions with the residents have not confirmed this claim.
-- Led By: Community
-- Email : info@kara-tunga.com
-- Contact number of Supplier: 77683901
-- Specific Experiences Offered: Mt Morungole Hiking and trekking
-- Types of activities offered: Cultural Heritage & Traditions, Nature and Wildlife
-- Destination: Kidepo National Park, Karamoja
-- Website : https://www.kara-tunga.com/tours/mount-morungole/
-- Type of supplier: Accommodation, Activities
-
-## Kara-tunga tours
-- GPS Co-ordinators: 2.52729053426299, 34.665600365880564
-- Short Supplier Bio: Timu Escarpment
-Walk on the ridge of Timu Escarpment and enjoy the panoramic views of the East Africa Rift amidst the traditional villages of the ik community.
- 
-
-Following to oral history, the northern side of the Timu escarpment was the start of the final residence of the Ik community in Uganda from the hills of Kenya’s Turkana county.
-
-The lush forest is located on the southern side and has served the community for many basic livelihood needs such as food, fuelwood, medicine, meat, honey and water.
-- Led By: Community
-- Email : info@kara-tunga.com
-- Contact number of Supplier: 776833901
-- Specific Experiences Offered: Timu Escarpment walk
-- Types of activities offered: Nature and Wildlife, Outdoor Adventures
-- Destination: Karamoja
-- Website : https://www.kara-tunga.com/tours/timu-escarpment-walk/
-- Type of supplier: Activities
-
-## Loremi Tours
-- GPS Co-ordinators: 2.773480704359012, 32.311554766527884
-- Short Supplier Bio: Loremi Tours curates authentic Acholi experiences that celebrate culture, empower communities, and promote sustainable tourism in Northern Uganda. Through heritage journeys, local partnerships, and immersive storytelling, we connect travelers to the heart of Acholi land , preserving its traditions while driving inclusive growth.
-- Led By: Community, Women, Youth
-- Email : info@loremitours.com
-- Contact number of Supplier: 783269681
-- Specific Experiences Offered: Historical tours and trails, City tours, Wellness experience, 
-- Types of activities offered: Cultural Heritage & Traditions, Food and Culinary, Art and Handicrafts, Nature and Wildlife, General Experiences, Outdoor Adventures, Farm & Agricultural Tourism, Performing Arts
-- Destination: Gulu, Acholi
-- Website : www.loremitours.com
-- Type of supplier: Accommodation, Activities
-
-## Parrot museum
-- GPS Co-ordinators: 0.424632, 30.410867
-- Short Supplier Bio: Parrot Tree Caretakers Association (PCTA) is a community-based organization that was founded in 2020 by Nick Byaba, together with local farmers in his area, growing and protecting oil palm trees as the most favourable feeding trees for grey parrots. The PTCA is a registered organization at town council level with the registration number CBS/BTC/204/2023 and a certificate of recognition.
-
-The PTCA unites the local farmers who are growing and protecting feeding trees for grey parrots and other wildlife within the region, sharing the vision of a just world for humans and wildlife and the mission to be the leading caretakers and stewards of parrots in their natural environment.
-- Led By: Private
-- Email : savegreys256@gmail.com
-- Contact number of Supplier: 777786574
-- Specific Experiences Offered: Africa’s first museum dedicated solely to parrots has opened in Bigodi on the edge of Uganda’s Kibale National Park. The Grey Parrot Museum focuses on the conservation and ecology of the African grey parrot – one of the world’s most threatened bird species.
-- Types of activities offered: Nature and Wildlife
-- Destination: Kibale
-- Website : https://www.tourismupdate.com/article/africas-first-parrot-museum-opens-in-uganda
-- Type of supplier: Activities
-
-## Lemala Wildwaters lodge
-- GPS Co-ordinators: 0.596817, 33.053215
-- Short Supplier Bio: We are fully committed to the sustainability of the Lemala brand in the short, mid and long term. Our various philanthropic projects reflect a deep commitment from the entire Lemala team, everyone is involved and everyone is passionate about looking after the communities, wildlife and people that enable us to call this very special corner of the planet ~ home.
-- Led By: Private
-- Email : info@wildwaterslodge.com
-- Contact number of Supplier: 772237400
-- Specific Experiences Offered: Our social responsibility is vitally important to who we are and we are proud to share with you just how Lemala has remained committed to upholding these values and responsibilities. Take a further look into how we’ve supported our local environment and communities through employment, local food sourcing and how we have minimized our carbon footprint. By staying with us you can rest assured that you’re supporting one of the top companies in Africa that practice and adhere to the strictest of guidelines in conservation, education, empowerment and protecting the environment.
-- Types of activities offered: General Experiences
-- Destination: Jinja
-- Website : https://www.lemalacamps.com/community-conservation/
-- Type of supplier: Accommodation
-
-## Adrift Uganda
-- GPS Co-ordinators: 0.329091, 32.599372
-- Short Supplier Bio: All our operations are responsibly managed ensuring protection of the the unique environments we operate in. It is our goal to leave no trace.
-- Led By: Private, Community
-- Email : info@adrift.ug
-- TravelLife / Fairtrade: Engaged
-- Contact number of Supplier: 752225587
-- Specific Experiences Offered: From the Adrift river base on the banks of the Nile our professional international crew offer a wide range of adventure options to suit all tastes. These include whitewater rafting, family rafting, bungee jumping, kayaking adventures, community conservation projects, community walks, mountain biking, quad biking horse back riding and team building activities.
-- Types of activities offered: General Experiences, Outdoor Adventures
-- Destination: Jinja
-- Website : https://www.adrift.ug/about/
-- Type of supplier: Accommodation, Activities
-
-##  Mpanga Nature Center
-- GPS Co-ordinators: 0.216133, 32.293156
-- Short Supplier Bio: The Center provide ecosystem services and aims to  connect people to nature by promoting nature conservation and the unique nature tourism opportunities around Mpanga Forest.
-- Led By: Private
-- Email : doreen@mpanganature.org
-- Contact number of Supplier: 78699590
-- Specific Experiences Offered: is a conservation and tourism education center located in Mpigi, Uganda. The Center was established in 2020 and works to promote conservation of Mpanga Forest while also promoting tourism
-
-
-- Types of activities offered: Outdoor Adventures
-- Destination: Mpigi
-- Website : https://mpanganature.org/
-- Type of supplier: Activities
-
-## Kisoro Volcanic Organic Coffee
-- GPS Co-ordinators: 1°16′28″, 29°40′55″
-- Short Supplier Bio: The Ukarimu WE4D Skilling Women in Ecotourism in Uganda project, is actively addressing key challenges in Uganda’s tourism sector. The project strengthens the employability of staff, supports the development of sustainable tourism products, and promotes decent work alongside gender-inclusive practices across the industry.
-- Led By: Youth
-- Email : kisorovolcaniccoffee@gmail.com
-- Contact number of Supplier: 770620201
-- Specific Experiences Offered: Coffee experience tours
-- Types of activities offered: Food and Culinary
-- Destination: Kisoro
-- Website : Ukarimu participant
-- Type of supplier: Activities
-
-## WAWOTO KACEL
-- GPS Co-ordinators: 2.761023, 32.291093
-- Short Supplier Bio: Cooperative making items using tailoring, weaving, tie dye, paper, beads, knitting & embroidery skills.
-- Led By: Private
-- Email : easyafricdesigns@gmail.com
-- Contact number of Supplier: 779939180
-- Specific Experiences Offered: Take tourists through the process of production of hand dye,wooven,paper beads
-- Types of activities offered: Art and Handicrafts
-- Destination: Gulu
-- Website : N/A
-- Type of supplier: Activities
-
-## Nkore cultural heritage
-- GPS Co-ordinators: 0°36'18.4 30°39'45.0
-- Short Supplier Bio: The Ukarimu WE4D Skilling Women in Ecotourism in Uganda project, is actively addressing key challenges in Uganda’s tourism sector. The project strengthens the employability of staff, supports the development of sustainable tourism products, and promotes decent work alongside gender-inclusive practices across the industry.
-- Led By: Women
-- Contact number of Supplier: 779920765
-- Specific Experiences Offered: The Ankole cultural experience
-- Types of activities offered: Cultural Heritage & Traditions
-- Destination: Mbarara
-- Website : Ukarimu participant
-- Type of supplier: Activities
-
-## Tooro Gallery
-- GPS Co-ordinators: 0.654980, 30.302240
-- Short Supplier Bio: Hand made traditional endiro baskets made from millet straw, banana fibre and papyrus in a contemporary design twist. Economic livelihood, cultural presevation, community empowerment.
-- Led By: Community, Women
-- Email : toorogallery@gmail.com
-- Contact number of Supplier: 782270227
-- Specific Experiences Offered: Omuka museum tour, Basket weaving, dying mixing techniques, learning tours
-- Types of activities offered: Performing Arts, Cultural Heritage & Traditions, Art and Handicrafts
-- Destination: Fort Portal
-- Website : https://toorogallery.org/
-- Type of supplier: Activities
-
-## Loregae Tours and trails
-- GPS Co-ordinators: 1.7192° N latitude and 34.3984° E 
-- Short Supplier Bio: The Ukarimu WE4D Skilling Women in Ecotourism in Uganda project, is actively addressing key challenges in Uganda’s tourism sector. The project strengthens the employability of staff, supports the development of sustainable tourism products, and promotes decent work alongside gender-inclusive practices across the industry.
-- Led By: Youth
-- Contact number of Supplier: 781862741
-- Specific Experiences Offered: Kraal visits and mountain hiking on Mt.Kadam, Karamoja cultural experience
-- Types of activities offered: Outdoor Adventures, Cultural Heritage & Traditions
-- Destination: Karamoja
-- Website : Ukarimu participant
-- Type of supplier: Activities
-
-## PACER
-- GPS Co-ordinators: N/A
-- Short Supplier Bio: Association of woodworkers & blacksmiths crafting sculptures, tools, objects for the home and toys.
-- Led By: Private
-- Email : pacer.bac@gmail.com
-- Contact number of Supplier: 771333532
-- Specific Experiences Offered: Live demonstration of the craft making to tourists and also train students
-- Types of activities offered: Art and Handicrafts
-- Destination: Gulu
-- Website : N/A
-- Type of supplier: Activities
-
-## Rurama Beekeepers Honey
-- GPS Co-ordinators: 0°31'33" N, 30°20'8" E
-- Short Supplier Bio: The Ukarimu WE4D Skilling Women in Ecotourism in Uganda project, is actively addressing key challenges in Uganda’s tourism sector. The project strengthens the employability of staff, supports the development of sustainable tourism products, and promotes decent work alongside gender-inclusive practices across the industry.
-- Led By: Youth
-- Contact number of Supplier: 773267564
-- Specific Experiences Offered: Honey harvesting experience
-- Types of activities offered: Food and Culinary
-- Destination: Kibale
-- Website : Ukarimu Participant 
-- Type of supplier: Activities
-
-## Paper craft Africa
-- GPS Co-ordinators: 0.164522, 32.541999
-- Short Supplier Bio: Handcrafted paper products using upcycled fibre, handmade soap and handblown glass.
-- Led By: Private
-- Email : papers@papercraftafrica.com
-- Contact number of Supplier: 772986957
-- Specific Experiences Offered: Paper craft making
-- Types of activities offered: Art and Handicrafts
-- Destination: Entebbe
-- Website : https://www.papercraftafrica.com/
-- Type of supplier: Activities
-
-## Agro Tourism Association
-- GPS Co-ordinators: 0.4104° N, 32.80673° E
-- Short Supplier Bio: Agro-Tourism Association (ATA) is an Agribusiness and Tourism Development Company that offers a wide range of services in Agribusiness and Tourism Value Chains. All services and products are designed to enhance capacity of farmers to engage in Farming as a Business (FaaB) thereby increasing their farm incomes. Especially the youth and women.
-- Led By: Private
-- Email : info@agro-tourism.org
-- Contact number of Supplier: 772062903
-- Types of activities offered: Farm & Agricultural Tourism
-- Destination: Kireka
-- Website : https://agro-tourism.org/contact/
-- Type of supplier: Activities
-
-## Rubona Baskets
-- GPS Co-ordinators: 0.561730, 30.180229
-- Short Supplier Bio: High quality baskets with intricate patterns made with local materials & 100% natural dye.
-- Led By: Women
-- Email : rubonabaskets@gmail.com
-- Contact number of Supplier: 782562640
-- Specific Experiences Offered: Natural dye demonstartion, Weaving
-- Types of activities offered: Art and Handicrafts
-- Destination: Rubona
-- Website : N/A
-- Type of supplier: Activities
-
-## Agartha’s taste of Uganda
-- GPS Co-ordinators: 0.5858, 29.7176
-- Short Supplier Bio: Agartha’s Taste of Uganda Tour: Situated in a small village on the fringes of the Queen Elizabeth National park. Agartha is a strong member of the local community group and tirelessly works to improve not only her family’s well-being but also her neighbours’.
-
-Agartha takes great pride in sharing with you how the women of her tribe, the Bakiga, prepare their favourite food. Not only do you hear how the ingredients are grown and harvested but you can witness how to shift, grind, cook, and most importantly, keep the much-loved food warm for their husbands.
-
-During the tour Agartha weaves in stories of what it’s like to be a Bakiga wife whilst encouraging you to taste what you may have helped prepare together. She then sends you off on your journey with a packed traditional snack and a taste of the local
-- Led By: Women
-- Contact number of Supplier: 772721155
-- Specific Experiences Offered: Community tours, Culinary experience, story telling
-- Types of activities offered: Food and Culinary, Cultural Heritage & Traditions, Farm & Agricultural Tourism
-- Destination: Kanungu
-- Website : N/Ahttps://www.muzungubloguganda.com/travel/agartha-taste-of-uganda-ishasha/
-- Type of supplier: Activities
-
-## Batwa Empowerment Village (BEV)
-- GPS Co-ordinators: -0.976483, 29.620250
-- Short Supplier Bio: We support visitors participating in a cultural experience offering a glimpse into the former livelihood of the Batwa people who were removed from the forest to preserve its pristine state, and to protect the Mountain Gorillas which are susceptible to human disease, when Bwindi Impenetrable Forest was awarded World Heritage Site status in 1994.
-
-Learn how the Batwa survived in the forest as hunter/gatherers, how they collect honey – a favourite delicacy, the plants and herbs they used and how they danced, sang and socialised. Discuss traditional Batwa burial rites, listen to ancient stories and legends from a people at one with their environment and test your skill with a Batwa bow and arrow as they demonstrate how they hunted, make fire and carved cups and plates from forest materials. 
-- Led By: Private
-- Contact number of Supplier: 772721155
-- Specific Experiences Offered: Cultural experience
-- Types of activities offered: Cultural Heritage & Traditions
-- Destination: Western
-- Website : https://batwauganda.org/
-- Type of supplier: Activities
-
-## Buhoma Lodge
-- GPS Co-ordinators: -0.988051, 29.615259
-- Short Supplier Bio: We aim to conserve Uganda’s heritage with low impact tourism, ensuring that we offer experiences to the highest comforts possible for our guests, while operating in a socially and environmentally responsible manner
-- Led By: Private
-- Email : exclusivecamps@wildfrontiers-uganda.com
-- Contact number of Supplier: 772721155
-- Specific Experiences Offered: Cultural experience, Bwindi Forest walk, Butterfly watching, Bird watching.
-- Types of activities offered: Cultural Heritage & Traditions, Nature and Wildlife, Outdoor Adventures
-- Destination: Western
-- Website : https://buhoma.ugandaexclusivecamps.com/
-- Type of supplier: Accommodation
-
-## Ishasha Wilderness camp
-- GPS Co-ordinators: -0.549690, 29.720974
-- Short Supplier Bio: We aim to conserve Uganda’s heritage with low impact tourism, ensuring that we offer experiences to the highest comforts possible for our guests, while operating in a socially and environmentally responsible manner
-- Led By: Private
-- Email : exclusivecamps@wildfrontiers-uganda.com
-- Contact number of Supplier: 772721155
-- Specific Experiences Offered: Community tours, Boat cruise, Bird watching, Chimpanzee trekking
-- Types of activities offered: Cultural Heritage & Traditions, Nature and Wildlife, Outdoor Adventures
-- Destination: Western
-- Website : https://ishasha.ugandaexclusivecamps.com/
-- Type of supplier: Accommodation
-
-## Murchison Bush Camp
-- GPS Co-ordinators: -0.460958, 29.682661
-- Short Supplier Bio: Our Murchison Bush Camp has been designed to cater for guests who want complete privacy, particularly in areas of Uganda which may not offer suitable alternative accommodation. It is ideal for small groups of VIP guests, or families and for privately guided groups with special interests such as bird-watching.
-- Led By: Private
-- Email : safari@wildfrontiers-uganda.com
-- Contact number of Supplier: 772721479
-- Specific Experiences Offered: Glamping 
-- Types of activities offered: General Experiences, Outdoor Adventures, Nature and Wildlife
-- Destination: Western
-- Website : safari@wildfrontiers-uganda.com
-- Type of supplier: Accommodation
-
-## Calsaar Cultural Initiative
-- GPS Co-ordinators: 0.363864, 32.691655
-- Short Supplier Bio: Building awareness of the society about their culture, promoting it and utilizing culture to enhance sustainable development
-- Led By: Youth
-- Email : calsaarculturalin@gmail.com
-- Contact number of Supplier: 700684457
-- Specific Experiences Offered: Performing arts and drama 
-- Types of activities offered: Performing Arts
-- Destination: Mukono
-- Website : https://calsaarculturalinitiative.org/
-- Type of supplier: Activities
-
-## La Fang Eco Resort, Dolwe
-- GPS Co-ordinators: -0.108696, 33.698188
-- Short Supplier Bio:  At La Fang Eco Resort, our mission is to provide an unparalleled eco-friendly tropical gateway while championing sustainability in every aspect of our operations. We aim to offer guests an unforgettable experience that fosters a deep connection with nature, promotes environmental conservation, and supports local communities. Through our commitment to preserving the natural beauty of Dolwe Island and its surroundings, we strive to inspire and educate visitors about the importance of responsible tourism. Join us in experiencing the beauty of Lake Victoria’s east coast while leaving a positive impact on the planet.
-- Led By: Private
-- Email : reservations@lafangecoresort.com
-- Contact number of Supplier: 709340905
-- Specific Experiences Offered: Accomodation, Boat cruise, Rock hiking, Nature walk, Farm tour
-- Types of activities offered: Outdoor Adventures, Farm & Agricultural Tourism
-- Destination: Mukono
-- Website : https://lafangecoresort.com/
-- Type of supplier: Accommodation, Activities
-
-## Uganda Museum
-- GPS Co-ordinators: 0.336341, 32.582586
-- Short Supplier Bio: The Uganda Museum is located in Kampala, Uganda. It displays and exhibits ethnological, natural-historical and traditional life collections of Uganda's cultural heritage. It was founded in 1908, after Governor George Wilson called for "all articles of interest" on Uganda to be procured.
-- Led By: Government
-- Email : reservations@wildlife.go.ug
-- Contact number of Supplier: 414355000
-- Specific Experiences Offered: Site Visit, Story Telling
-- Types of activities offered: Cultural Heritage & Traditions, Art and Handicrafts
-- Destination: Kampala
-- Website : https://en.wikipedia.org/wiki/Uganda_Museum
-- Type of supplier: Activities
-
-## Tooro Kingdom Palace
-- GPS Co-ordinators: 0.647031, 30.268482
-
-- Short Supplier Bio: To learn more about the history of Tooro Kingdom and a cultural tour in Western Uganda.
-
-
-- Led By: Community
-- Email : afrikapanthera@gmail.com
-- Contact number of Supplier: 774056769
-- Specific Experiences Offered: Site Visit, Story Telling
-- Types of activities offered: Cultural Heritage & Traditions
-- Destination: Fort Portal
-- Website : https://toorokingdom.org/tourist-attraction/karuzika-royal-palace/
-- Type of supplier: Activities
-
-## Budogo Forest Reserve
-- GPS Co-ordinators: 1.648900, 31.576090
-- Short Supplier Bio: Budongo forest is the largest mahogany forest in east Africa with a number of various tree species and other vegetation types.
-- Led By: Government
-- Email : reservations@wildlife.go.ug
-- Contact number of Supplier: 414355000
-- Specific Experiences Offered: Birding, Forest walks, Primate tracking
-- Types of activities offered: Nature and Wildlife
-- Destination: Mukono
-- Website : https://www.ugandaparks.com/ecotourism-sites/
-- Type of supplier: Activities
-
-## Kasubi Tombs
-- GPS Co-ordinators: 0.329160, 32.553299
-- Short Supplier Bio: The Kasubi Tombs in Kampala, Uganda, is the site of the burial grounds for four kabakas and other members of the Baganda royal family. As a result, the site remains an important spiritual and political site for the Ganda people, as well as an important example of traditional architecture.
-- Led By: Community
-- Email : albertkasozi8@gmail.com
-- Contact number of Supplier: 70320814
-- Specific Experiences Offered: Site Visit, Cultural Tours
-- Types of activities offered: Cultural Heritage & Traditions
-- Destination: Kampala
-- Website : https://whc.unesco.org/fr/list/1022/
-- Type of supplier: Activities
-
-## Kashoya Kitomi Forest Reserve
-- GPS Co-ordinators: 1.485733, 32.095330
-- Short Supplier Bio: The forest has a land area coverage of 433 kilometers squares and has a number of wildlife attractions that include chimpanzees, bird species, monkeys (vervet monkeys, blue monkeys, red tailed monkeys, black and white colobus monkeys can be sighted in the forest reserve).
-- Led By: Government
-- Email : reservations@wildlife.go.ug
-- Contact number of Supplier: 414355000
-- Specific Experiences Offered: Birding, Boat rides, Primate tracking, Site seeing, Community walks
-- Types of activities offered: Nature and Wildlife
-- Destination: Buhwezi
-- Website : https://www.ugandaparks.com/ecotourism-sites/
-- Type of supplier: Activities
-
-## Tooro Cultural Tourism Center 
-- GPS Co-ordinators: 0.406676, 30.409256
-- Short Supplier Bio: serves as a hub for eco-tourism and heritage experiences celebrating the traditions of the Tooro Kingdomin western Uganda. 
-- Led By: Community
-- Email : toorocultural@gmail.com
-- Contact number of Supplier: 783953261
-- Specific Experiences Offered: Cultural Tours, Traditional Dance Performance,
-- Types of activities offered: Cultural Heritage & Traditions, Performing Arts
-- Destination: Fort Portal
-- Website : n/a
-- Type of supplier: Activities
-
-## Busingiro Eco Tourism Site
-- GPS Co-ordinators: 1.715757, 31.470192
-- Short Supplier Bio: This tourist site lies within Budongo forest which features the largest number of Mahogany in the entire East Africa as well as other tree species also thriving up to 80 meters.
-
-- Led By: Government
-- Email : reservations@wildlife.go.ug
-- Contact number of Supplier: 414355000
-- Specific Experiences Offered: Camping, Education center, Forest nature walk, Birding, Chimpanzee trekking
-- Types of activities offered: Nature and Wildlife
-- Destination: Masindi
-- Website : https://ugandawildlife.org/
-- Type of supplier: Activities
-
-## Casa Uganda Safaris
-- GPS Co-ordinators: 1.073343, 34.181293
-- Short Supplier Bio: We exist to create authentic connections between people, places, and purpose.
-Headquartered in Uganda and operating globally, Casa Uganda works with institutions, communities, and partners around the world to design and deliver meaningful cross-border engagements rooted in sustainability, cultural respect, and shared value.
-Through carefully structured programs, Casa Uganda enables ethical sourcing of high-quality Ugandan coffee, sustainable tourism that benefits local communities, professional, medical, and faith-based exchange programs, and cultural and interfaith understanding through travel and dialogue.
-- Led By: Private
-- Email : hello@casasafarisuganda.com
-- Contact number of Supplier: 788965403
-- Specific Experiences Offered: Coffee Experience, Bagishu Cultural Experience, Culinary Experience, Nature Walks, Hiking
-- Types of activities offered: Cultural Heritage & Traditions, Outdoor Adventures, Food and Culinary, General Experiences, Farm & Agricultural Tourism
-- Destination: Eastern
-- Website : https://www.casasafarisuganda.com/
-- Type of supplier: Accommodation, Activities
-
-## Bwindi Impenetrable Forest
-- GPS Co-ordinators: -1.051849, 29.620101
-- Short Supplier Bio: Visiting Bwindi is a transformative experience. It offers the opportunity to connect with nature profoundly while contributing to critical conservation efforts that help preserve this extraordinary environment for future generations. The people who live in harmony with the forest further enrich the experience, offering cultural insights that deepen your connection to this remarkable region.
-- Led By: Government
-- Email : reservations@wildlife.go.ug
-- Contact number of Supplier: 414355000
-- Specific Experiences Offered: Gorilla trekking, Birding, Nature Walks, Cultural encounters, Mountain Biking, Village walks
-- Types of activities offered: Nature and Wildlife, Cultural Heritage & Traditions
-- Destination: Bwindi
-- Website : https://ugandawildlife.org/
-- Type of supplier: Activities
-
-## Igongo Country Hotel and Cultural Center
-- GPS Co-ordinators: -0.603636, 30.655782
-- Short Supplier Bio:  N/A 
-- Led By: Private
-- Email : info@igongo.co.ug
-- Contact number of Supplier: 752008724
-- Specific Experiences Offered: Cultural Tours, Nature Walks, Traditional Dance Performances, Craft Workshops
-- Types of activities offered: Art and Handicrafts, Cultural Heritage & Traditions, Outdoor Adventures
-- Destination: Western
-- Website : https://mbararatours.com/attractions/igongo-cultural-center.html
-- Type of supplier: Accommodation
-
-## Kibale Forest National Park
-- GPS Co-ordinators: 0.436621, 30.366760
-- Short Supplier Bio: This is home to a host of forest wildlife, most famously 13 species of primate including chimpanzee. Forest cover predominates in the northern and central parts of the park on the elevated Fort Portal plateau. Kibale is highest at the park’s northern tip which stands 1590m above sea level. 
-- Led By: Government
-- Email : reservations@wildlife.go.ug
-- Contact number of Supplier: 414355000
-- Specific Experiences Offered: Chimpanzee trekking, Unique flora and funa species, Birding, Guiding Forest nature walk, Bigodi wetland sanctuary,
-- Types of activities offered: Nature and Wildlife
-- Destination: Fort Portal
-- Website : https://ugandawildlife.org/
-- Type of supplier: Activities
-
-## Emburara Farm lodge
-- GPS Co-ordinators: -0.545527, 30.595874
-- Short Supplier Bio: We are a high end Eco – luxury lodge promoting cultural tourism and conservation of flora and fauna in a fresh, serene and relaxed farm environment. 
-- Led By: Private
-- Email : info@emburarafarmlodge.com
-- Contact number of Supplier: 776210872
-- Specific Experiences Offered: Horse Riding, Farm Tours, Bird Watching, Nature Walks, Cultural Experiences
-- Types of activities offered: Farm & Agricultural Tourism, Art and Handicrafts
-- Destination: Western
-- Website : https://www.emburarafarmlodge.com/
-- Type of supplier: Accommodation
-
-## Kidepo Valley National Park
-- GPS Co-ordinators: 3.830491, 33.751717
-- Short Supplier Bio: This remote National Park receives less tourists (when compared to other National Parks) making it a must-visit for tourists who desire genuine and unblemished destinations that offer a true African Wilderness.
-- Led By: Government
-- Email : reservations@wildlife.go.ug
-- Contact number of Supplier: 414355000
-- Specific Experiences Offered:  Game drive, Mountain hiking, Guided nature walks, Bird watching, Karamoja village walks
-- Types of activities offered: Nature and Wildlife, Cultural Heritage & Traditions
-- Destination: North Eastern
-- Website : https://ugandawildlife.org/
-- Type of supplier: Activities
-
-## Mondi Lodge Kisoro
-- GPS Co-ordinators: -1.282421, 29.681471
-- Short Supplier Bio: Mondi lodge nestled amidst the majestic mountains of Kisoro is an enchanting experience that seamlessly blends breath taking landscapes with unparalleled hospitality. As you step into our sanctuary, you’ll be greeted by the enticing aroma of delectable cuisine and the melodious sounds of laughter in our vibrant restaurant and bar. 
-Our opulent accommodations are thoughtfully designed to provide you with a haven of comfort and tranquility. Each room offers panoramic views of the surrounding mountains, allowing you to awaken to nature’s breathtaking canvas right outside your window. Relax in exquisitely appointed spaces, where every detail has been carefully curated to ensure your utmost indulgence.
- We take great pride in fostering connections with the local communities and invite you to partake in authentic cultural encounters. Join us on guided excursions to nearby lakes, where you can immerse yourself in the vibrant traditions of the people who call this place home.
-Our commitment to sustainability and community development sets us apart as a beacon of responsible tourism. By choosing to stay with us, you actively contribute to our initiatives that support local education, empower the community, and preserve the natural wonders that make Kisoro truly extraordinary.
-- Led By: Private
-- Email : N/a
-- Contact number of Supplier: 776146888
-- Specific Experiences Offered: Hiking, Bird watching, Cultural tours, Nature walks, Community visits
-- Types of activities offered: General Experiences, Outdoor Adventures
-- Destination: Kisoro
-- Website : https://mondilodgekisoro.com/
-- Type of supplier: Accommodation
-
-## Lake Mburo National Park
-- GPS Co-ordinators: -0.578836, 30.976764
-- Short Supplier Bio: It contains of tan extensive wetland, attractive scenery and only national park with an entire lake hence famous for its richness in biodiversity.
-- Led By: Government
-- Email : reservations@wildlife.go.ug
-- Contact number of Supplier: 414355000
-- Specific Experiences Offered: Game drives, Boat rides, Nature walks, Birding, Sport fishing, Horseback riding, Cultural encounters
-- Types of activities offered: Nature and Wildlife, Cultural Heritage & Traditions
-- Destination: Western
-- Website : https://ugandawildlife.org/
-- Type of supplier: Activities
-
-## ViaVia
-- GPS Co-ordinators: 0.078431, 32.471958
-- Short Supplier Bio: Working together with local entrepreneurs is one of our focus points.
-- Led By: Private, Community
-- Email : entebbe@viavia.world
-- Contact number of Supplier: 781524991
-- Specific Experiences Offered: Cultural Tours, Wildlife Safaris, Community Engagement, Culinary Experiences
-- Types of activities offered: Art and Handicrafts, Outdoor Adventures
-- Destination: Kampala, Central
-- Website : https://entebbe.viavia.world/
-- Type of supplier: Accommodation
-
-## Mgahinga Gorilla National Park
-- GPS Co-ordinators: -1.363820, 29.638294
-- Short Supplier Bio: Size: 33.7km2, making it Uganda’s smallest National Park.
-The park takes its name from “Gahinga” – the local word for the piles of volcanic stones cleared from farmland at the foot of the volcanoes.
-The British administration declared the area a game sanctuary in 1930; it was gazetted as a National Park in 1991.
-Mgahinga has one habituated transboundary gorilla group.
-The Batwa were self-sufficient – and visitors can see how during a fascinating tour with a Batwa guide to learn the secrets of the forest.
-Mgahinga Gorilla National Park sits high in the clouds, at an altitude of between 2,227m and 4,127m. As its name suggests, it was created to protect the rare mountain gorillas that inhabit its dense forests, and it is also an important habitat for the endangered golden monkey.
-As well as being important for wildlife, the park also has a huge cultural significance, in particular for the indigenous Batwa pygmies. This tribe of hunter-gatherers was the forest’s “first people”, and their ancient knowledge of its secrets remains unrivaled.
-Mgahinga’s most striking features are its three conical, extinct volcanoes, part of the spectacular Virunga Range that lies along the border region of Uganda, Congo, and Rwanda. Mgahinga forms part of the much larger Virunga Conservation Area which includes adjacent parks in these countries. The volcanoes’ slopes contain various ecosystems and are biologically diverse, and their peaks provide a striking backdrop to this gorgeous scenery.
-Mgahinga boasts of over 76 mammals which include elephants, giant forest hog, bush pigs,bush back. Buffalos, leopards, A bird checklist of over 180 species including the 14 endemic Albertine rift notably the Kivu ground thrush and turaco.
-- Led By: Government
-- Email : reservations@wildlife.go.ug
-- Contact number of Supplier: 414355000
-- Specific Experiences Offered: Mountain hiking, Gorilla trekking, Cave exploration, bird watching, Golden monkey trekking, Nature walks,C
-- Types of activities offered: Nature and Wildlife
-- Destination: South West
-- Website : https://ugandawildlife.org/
-- Type of supplier: Activities
-
-## Turaco Treetops
-- GPS Co-ordinators: 0.403569, 30.383377
-- Short Supplier Bio: The team behind Turaco Treetops is passionate about nature and hospitality. On one of the last patches of rain forest outside the boundaries of Kibale National Park, we are proud to invite you to a lodge that honors nature and presents Uganda with a modern twist.Our main lodge, rooms and cottages are built for comfort and let you soak up nature at the same time. To minimize our footprint the lodge is largely powered by solar and takes care of its surroundings, for example by rejuvenating degraded forest areas around the lodge, local sourcing, and renouncing single use plastics, including plastic bottles of mineral water. Since 2025, Turaco Treetops holds the Fair Trade Tourism Engaged Certificate, recognising our ongoing efforts to operate responsibly and care for the environment around us.
-- Led By: Private
-- Email : info@turacotreetops.com
-- TravelLife / Fairtrade: Engaged
-- Contact number of Supplier: 757152323
-- Specific Experiences Offered: Birdwatching, Hiking, Nature walks, Wildlife tours
-- Types of activities offered: Nature and Wildlife, Farm & Agricultural Tourism
-- Destination: Kibale
-- Website : https://www.turacotreetops.com/
-- Type of supplier: Accommodation
-
-## Mount Elgon National Park
-- GPS Co-ordinators: 1.105966, 34.508619
-- Short Supplier Bio: This park derived its name from the spectacular Mount Elgon which straddles at the border with Kenya. Its diameter is about 80 kilometers and stretches up to 3000 meters. A visit to this stunning park gets you the best of its unique flora and fauna including more than 300 bird species, thick montane forest, mixed bamboo belts, endemic plants for instance the giant lobelia and groundsels. The wildlife species to spot here include the black and white colobus monkeys, blue monkeys, birds like golden winged and tacazze sunbirds, Ross’s and hartlaub’s Turaco, Jackson’s Francolin, lammergeyer, crowned hornbills, black and white casqued hornbills among others.
-- Led By: Government
-- Email : reservations@wildlife.go.ug
-- Contact number of Supplier: 414355000
-- Specific Experiences Offered: Bird Watching, Hiking to Sipi Falls, Trekking Through Mt Elgon, Camping, 
-- Types of activities offered: Nature and Wildlife
-- Destination: Eastern
-- Website : https://ugandawildlife.org/
-- Type of supplier: Activities
-
-## Volcanoes Safaris
-- GPS Co-ordinators: 0.448332, 30.279893
-- Short Supplier Bio: The Volcanoes Safaris Partnership Trust (VSPT), established in 2009, is a non-profit organisation that connects Volcanoes’ Rwanda and Uganda lodges to the neighbouring communities and conservation activities. The VSPT receives funding through Volcanoes Safaris, which contributes $50 per night from each guest staying at a Volcanoes lodge, as well as grants from conservation organisations, private donations by our guests and others.
-
-
-- Led By: Private, Community
-- Email : enquiries@volcanoessafaris.com
-- Contact number of Supplier: 414346464
-- Specific Experiences Offered: Hiking, Bird Watching, Cultural Tours, Nature Walks
-- Types of activities offered: General Experiences, Nature and Wildlife, Cultural Heritage & Traditions
-- Destination: Rwenzori - Albertine
-- Website : https://volcanoessafaris.com/
-- Type of supplier: Accommodation
-
-## Murchison Falls National Park
-- GPS Co-ordinators: 2.233604, 31.778574
-- Short Supplier Bio: This park is the best and most popular destination you should visit for a safari because it offers an ultimate African Safari Experience. Whether you are planning a short safari, Murchison Falls National Park the answer or even a Long safari, it is still the answer.
-- Led By: Government
-- Email : reservations@wildlife.go.ug
-- Contact number of Supplier: 414355000
-- Specific Experiences Offered: Game Drives, Bird Watching, Hiking and Nature Walks, Boat Cruises, Sport fishing, Cultural Encounters,
-- Types of activities offered: Nature and Wildlife, Cultural Heritage & Traditions
-- Destination: Murchison Falls National Park
-- Website : https://ugandawildlife.org/
-- Type of supplier: Activities
-
-## Mbunga Campsite
-- GPS Co-ordinators: 0.212753, 30.017995
-- Short Supplier Bio: N/A
-- Led By: Private
-- Email : N/a
-- Specific Experiences Offered: Hiking, Birdwatching, Camping, Nature walks
-- Types of activities offered: Outdoor Adventures, Performing Arts, Cultural Heritage & Traditions
-- Destination: Kasese
-- Website : https://www.tripadvisor.com/Hotel_Review-g1155103-d15611947-Reviews-Mbunga_Campsite-Kasese_Western_Region.html
-- Type of supplier: Accommodation
-
-## Queen Elizabeth National Park
-- GPS Co-ordinators: -0.281331, 29.964060
-- Short Supplier Bio: It spans up to 1978 square kilometers making it Uganda’s second largest park and it is largely a savanna grassland protected area. It boasts of its diverse wildlife species that dwell within its sprawling savanna, humid forests, shady and fertile wetlands.
-- Led By: Government
-- Email : reservations@wildlife.go.ug
-- Contact number of Supplier: 414355000
-- Specific Experiences Offered: Game Drive, Boat Cruise, Birding, Nature Walks, Chimpanzee Trekking, Volcano Explosion Craters, 
-- Types of activities offered: Nature and Wildlife
-- Destination: Kasese
-- Website : https://ugandawildlife.org/
-- Type of supplier: Activities
-
-## The Elephant Home
-- GPS Co-ordinators: 0.010487, 29.999920
-- Short Supplier Bio: In every step of our work at the Elephant home, we promote actions that continuously support a healthy and safe environment for our guests, our community and wildlife. We believe our action is the only opportunity we have to contribute to life on the larger global community.
-- Led By: Private
-- Email : theelephanthome@gmail.com
-- Contact number of Supplier: 706581477
-- Specific Experiences Offered: Wildlife Tours, Bird Watching, Nature Walks, Eco-Friendly Lodging
-- Types of activities offered: Nature and Wildlife, Art and Handicrafts, General Experiences
-- Destination: Kasese
-- Website : https://theelephanthome.com/community-activities-to-volunteer-with-at-the-elephant-home/?_gl=1*1qlx0y9*_ga*MTI4NzM3MzE3NC4xNzIwMDk2ODkx*_ga_FLPEHNL62M*MTczNjc2Nzg4NC40LjAuMTczNjc2Nzg4NC4wLjAuMA..
-- Type of supplier: Accommodation
-
-## Rwenzori Mountains National Park
-- GPS Co-ordinators: 0.321163, 29.910633
-- Short Supplier Bio: The region’s glaciers, waterfalls and lakes make it one of Africa’s most beautiful alpine areas. The park has many natural habitats of endangered species and a rich and unusual flora comprising, among other species, the giant heather.
-- Led By: Government
-- Email : reservations@wildlife.go.ug
-- Contact number of Supplier: 414355000
-- Specific Experiences Offered: Mountain Climbing, Trekking, Nature Walks, Birding, Cultural Encounter
-- Types of activities offered: Nature and Wildlife, Cultural Heritage & Traditions
-- Destination: Western
-- Website : https://ugandawildlife.org/
-- Type of supplier: Activities
-
-## Ruboni Community Camp
-- GPS Co-ordinators: 0.350625, 30.029134
-- Short Supplier Bio: Community-Owned: Run entirely by the local Bakonzo community, where 100% of the staff are local residents and profits fund regional development and conservation. [1, 2]
-- Led By: Community
-- Email : ruboni.communitytourism@gmail.com
-- Contact number of Supplier: 752503445
-- Specific Experiences Offered: Hiking, Bird Watching, Cultural Tours, Nature Walks, Community Engagement
-- Types of activities offered: Cultural Heritage & Traditions, Farm & Agricultural Tourism
-- Destination: Rwenzori - Albertine
-- Website : https://rubonicamp.com/
-- Type of supplier: Accommodation
-
-## Semuliki National Park
-- GPS Co-ordinators: 0.833609, 30.043434
-- Short Supplier Bio: It is a home to over 53 mammal species including several primates such as chimpanzees and over 441 bird species with some species being typical forest bird species. Much as this National park is rich with Biodiversity, it is not usually added on itineraries for safaris.
-- Led By: Community
-- Email : reservations@wildlife.go.ug
-- Contact number of Supplier: 414355000
-- Specific Experiences Offered: Game Drives, Chimpanzee Trekking, Bird Watching, Nature Walks, Hot Springs, 
-- Types of activities offered: Nature and Wildlife, Cultural Heritage & Traditions
-- Destination: Western
-- Website : https://ugandawildlife.org/
-- Type of supplier: Activities
-
-## Kara-Tunga Safari Camps
-- GPS Co-ordinators: 2.527709, 34.665600
-- Short Supplier Bio: Beyond tourism, Kara-Tunga is actively involved in community empowerment and sustainability initiatives. We collaborate with local communities on cultural heritage preservation projects and support biodiversity conservation efforts. Our commitment to ethical tourism ensures that our operations benefit both travelers and the local population.
-- Led By: Private
-- Email : info@kara-tunga.com
-- Contact number of Supplier: 776833901
-- Specific Experiences Offered: Game drives, Bird watching, Cultural experiences, Nature walks, Camping
-- Types of activities offered: Cultural Heritage & Traditions, Food and Culinary, Art and Handicrafts, Nature and Wildlife
-- Destination: Karamoja
-- Website : https://www.kara-tunga.com/safari-camp/?srsltid=AfmBOorkNMOwVPSSDh2xGC14GvwBpHSHdJreVPprk4NDII6zz0nEB1O2
-- Type of supplier: Accommodation
-
-## Agoro Hill
-- GPS Co-ordinators: 3.790766, 33.021009
-- Short Supplier Bio: This archaeological site features ancient terraced farming systems and promotes sustainable tourism by showcasing traditional agricultural practices, environmental stewardship, and sustainable land use techniques.
-- Led By: Community
-- Email : info@loremitours.com
-- Contact number of Supplier: 783269681
-- Specific Experiences Offered: Hiking, Bird Watching, Cultural Tours, Agricultural Workshops
-- Types of activities offered: Outdoor Adventures
-- Destination: Acholi
-- Website : https://loremitours.com/
-- Type of supplier: Activities
-
-## Ishasha Community Uplift Group
-- GPS Co-ordinators: -0.713786, 29.674825
-- Short Supplier Bio: We choose, to utilise facilities for our guests that comply with these low impact aims – fuel efficient vehicles and boats, accommodation at small intimate camps and lodges and those with sustainable fuels use. By encouraging our safari guests to act in a responsible way with insight and understanding with local customs – to ensure your safari in Uganda is more enjoyable and fulfilling
-- Led By: Private
-- Email : exclusivecamps@wildfrontiers-uganda.com
-- Contact number of Supplier: 772721155
-- Specific Experiences Offered: Cultural experience, Art crafts, Homestay visits
-- Types of activities offered: Art and Handicrafts, Cultural Heritage & Traditions, Performing Arts
-- Destination: Western
-- Website : https://www.ugandaexclusivecamps.com/responsible-tourism/
-- Type of supplier: Activities
-
-## Awere Hill
-- GPS Co-ordinators: 2.689475, 32.793310
-- Short Supplier Bio: The area is surrounded by lush green vegetation in a quiet environment, where only birds and insects seem to have a right to announce their presence, it is also claimed that LRA;s Joseph Kony often went to the Awere hills to recharge his mystic powers so natives believe that it is a home for spirits.
-- Led By: Community
-- Email : info@loremitours.com
-- Contact number of Supplier: 783269681
-- Specific Experiences Offered: Archaeological significance, Ancient rock art
-- Types of activities offered: Outdoor Adventures
-- Destination: Acholi
-- Website : https://loremitours.com/
-- Type of supplier: Activities
-
-## Kara-Tunga Eco camps
-- GPS Co-ordinators: 2.500288, 34.681248
-- Short Supplier Bio: A unique opportunity for an immersive cultural experience in an unspoiled natural environment, that positively impacts the local communities and supports the conservation of biodiversity.
-- Led By: Private
-- Email : info@kara-tunga.com
-- Contact number of Supplier: 776833901
-- Specific Experiences Offered: Hiking, Camping, Cultural Tours, Bird Watching
-- Types of activities offered: Cultural Heritage & Traditions, Food and Culinary, Art and Handicrafts
-- Destination: Karamoja
-- Website : https://www.kara-tunga.com/eco-camps/
-- Type of supplier: Accommodation
-
-## Wi Gwen Muchwini memorial
-- GPS Co-ordinators: 3.430868, 33.010001
-- Short Supplier Bio: Liberation war, and archbishop Jonan Luwum burial site commemorated 16 February 2015.This memorial site promotes sustainable tourism by preserving cultural memory and promoting community pride and engagement. This is through honoring local heroes, commemorating historical events.
-- Led By: Community
-- Email : info@loremitours.com
-- Contact number of Supplier: 783269681
-- Specific Experiences Offered: Cultural tours, Historical storytelling, Community engagement, Educational workshops
-- Types of activities offered: Outdoor Adventures
-- Destination: Acholi
-- Website : https://loremitours.com/
-- Type of supplier: Activities
-
-## Sunbird Hill
-- GPS Co-ordinators: 0.424632, 30.410867
-- Short Supplier Bio: We have the best naturalist guides in western Uganda who are knowledgeable, passionate and dedicated conservationists. We head the Bird Population Monitoring Programme in Western Uganda. Winners of Big Birding 2 years in a row. See Village Conservation in Action at Butterfly Village with our Healing Garden, ButterflyHouse, Village Bird Clubs alongside elephant deterrent beehives and trench.
-- Led By: Private
-- Email : info@sunbirdhill.com
-- Contact number of Supplier: 705177784
-- Specific Experiences Offered: Hiking, Bird Watching, Nature Walks, Cultural Tours, Photography
-- Types of activities offered: Nature and Wildlife
-- Destination: Kigezi
-- Website : https://www.sunbirdhill.com/
-- Type of supplier: Accommodation
-
-## 
-Kalongo rock
-
-- GPS Co-ordinators: 3.047182, 33.364620
-- Short Supplier Bio: Kalongo is a large granite volcanic plug rising above the small and hospitable town of Kalongo. This rock formation offers panoramic views of the surrounding landscape and serves as a site for eco-tourism and adventure activities such as hiking and rock climbing, contributing to sustainable tourism through responsible outdoor recreation.
-- Led By: Community
-- Email : info@loremitours.com
-- Contact number of Supplier: 783269681
-- Specific Experiences Offered: Hiking, Rock Climbing
-- Types of activities offered: Outdoor Adventures
-- Destination: Acholi
-- Website : https://loremitours.com/
-- Type of supplier: Activities
-
-## Home of Friends
-- GPS Co-ordinators: 1.388199, 34.445636
-- Short Supplier Bio: Whether you’re excited to see the famous Sipi Falls or venture off the beaten path with our guided hikes and cultural experiences, we’re here for you! Our activities immerse you in the stunning nature and authentic cultures that make this region so special.
-- Led By: Private
-- Email : info@homeoffriends.com
-- Contact number of Supplier: 703276181
-- Specific Experiences Offered: Hiking, Birdwatching, Cultural Tours
-- Types of activities offered: Outdoor Adventures, Cultural Heritage & Traditions
-- Destination: Kapchorwa
-- Website : https://www.homeoffriends.com/
-- Type of supplier: Accommodation
-
-## Oret hill
-- GPS Co-ordinators: 2.773470, 32.311290
-- Short Supplier Bio: Known for its scenic views and historical significance as a former military lookout point during the Lord Resistance Army insurgency. It is also perfect for hiking. Oret Hill promotes sustainable tourism by highlighting resilience and recovery efforts in the region.
-- Led By: Community
-- Email : info@loremitours.com
-- Contact number of Supplier: 783269681
-- Specific Experiences Offered: Hiking, Scenic views, Historical tours
-- Types of activities offered: Outdoor Adventures
-- Destination: Acholi
-- Website : https://loremitours.com/
-- Type of supplier: Activities
-
-## Kikonko Lodge
-- GPS Co-ordinators: 1.562132, 31.118877
-- Short Supplier Bio: At Kikonko Lodge, we recognize the urgency of climate change — and we believe that real action can’t wait. Sustainability is not an option for us; it’s embedded in everything we do.
-
-
-We are proud to be Fair Trade Tourism Engaged Certified, reflecting our ongoing commitment to responsible and ethical operations. Environmental protection is one of our highest priorities. That’s why, for example, drinking water is freely available to all our guests, and single-use plastics have no place in our lodge.
-When you visit Kikonko, you’ll notice our solar water heaters and see that the entire lodge runs 100% on solar power. Just look around, and you’ll see how seriously we take environmental protection in every detail of our daily operations.
-
-
-Every day, we strive to reduce our impact and 
-protect the natural beauty that surrounds us —
-because caring for our planet is
-at the heart of who we are.
-
-
-At Kikonko Lodge we offer comfort and relaxation with warm hospitality.Hospitality is what we live for and so we try to make every day a perfect day for our guests. Come and try us out – you will be welcomed with a warm smile!
-- Led By: Private
-- Email : info@kikonko.com
-- TravelLife / Fairtrade: Engaged
-- Contact number of Supplier: 787999447
-- Specific Experiences Offered: Fishing, Boat Tours, Bird Watching, Hiking, Camping, Tea tours
-- Types of activities offered: Outdoor Adventures
-- Destination: Rwenzori - Albertine
-- Website : https://www.kikonko.com/
-- Type of supplier: Accommodation
-
-## Lotuturu Hill
-- GPS Co-ordinators: 3.733153, 32.891331
-- Short Supplier Bio: A historical site that holds mystery and stories from the colonial era. 
-
-The mystery of a place believed to be a hide out of King George of Britain during World War. At the peak of the war, Europe was not safe and in a highly secret move, the British moved the Royal Family to the Lotuturu as one of the safest places to keep them away from; Germany’s Hitler, Italy’s Mussolini and Japan’s Hirohito’s triple alliance.
-
-Lotuturu contributes to sustainable tourism by educating visitors about the region past and
-fostering historical preservation efforts.
-- Led By: Community
-- Email : info@loremitours.com
-- Contact number of Supplier: 783269681
-- Specific Experiences Offered: Hiking, Guided tours, Cultural experiences, Wildlife observation
-- Types of activities offered: Outdoor Adventures
-- Destination: Gulu
-- Website : https://loremitours.com/
-- Type of supplier: Activities
-
-## Ziwa Rhino and Wildlife Ranch
-- GPS Co-ordinators: 1.485692, 32.095288
-- Short Supplier Bio: Ziwa Rhino & Wildlife Ranch offers peace and tranquillity in beautiful surroundings where you can be at one with nature. Whether you’re photographing rhinos or any of the exotic wild birds that can be found here, we’re sure you’ll find your connection to nature.
-
-And if you’re staying in our campsite or one of our guest houses, there’s plenty of nocturnal wildlife activity too. Our infra-red night cameras frequently pick up porcupines, aardvarks and other animals going about their business.
-- Led By: Private
-- Email : bookings@ziwarhinoandwildliferanch.com
-- Contact number of Supplier: 785552801
-- Specific Experiences Offered: Nature Walks, Birding Tours, Rhino Treks, Shoebill Trek, Camping,
-- Types of activities offered: Nature and Wildlife
-- Destination: Nakasongola
-- Website : https://ziwarhinoandwildliferanch.com/
-- Type of supplier: Activities, Accommodation
-
-## WiPolo martyrs shrine
-- GPS Co-ordinators: 3.155098, 33.426641
-- Short Supplier Bio: This site is famous for its connection to Saint Josephine Bakhita, who was abducted into slavery but later became a revered Catholic saint. Paimol is also a martyr site for two martyrs, Daudi Okello and Jildo Irwa who were martyred in 1918 and beatified in 2010. It now serves as a pilgrimage site and promotes sustainable tourism through cultural heritage preservation and religious tourism.
-- Led By: Community
-- Email : info@loremitours.com
-- Contact number of Supplier: 783269681
-- Specific Experiences Offered: Activities Offered: Pilgrimage, Cultural heritage tours, Religious tourism
-- Types of activities offered: Outdoor Adventures
-- Destination: Gulu
-- Website : https://loremitours.com/
-- Type of supplier: Activities
-
-## Ziwa Rhino Sanctuary
-- GPS Co-ordinators: 1.485947, 32.095748
-- Short Supplier Bio: Presently the sanctuary is home to thirty two (32) southern white rhinos. The sanctuary has become increasingly popular with tourists; for Rhino Trekking, Shoebill Trek and Canoe Ride, Bird Watching, Night Walk, Nature Walk and Relaxation.
-..
-- Led By: Government
-- Email : info@wildlife.go.ug
-- Contact number of Supplier: 312355000
-- Specific Experiences Offered: Rhino trekking, birding, nature walks, 
-- Types of activities offered: Nature and Wildlife
-- Destination: Nakasongola
-- Website : https://uwec.ug/
-- Type of supplier: Activities
-
-## Got Moro Hill
-- GPS Co-ordinators: 2.773470, 32.311290
-- Short Supplier Bio: It is known for its indgenous cultural significance among the Acholi people. Got Moro is a sacred site where traditional rituals and ceremonies are performed. It promotes sustainable tourism by preserving indigenous cultural practices and fostering community involvement in tourism activities.
-- Led By: Community
-- Email : info@loremitours.com
-- Contact number of Supplier: 783269681
-- Specific Experiences Offered: Hiking, Cultural Tours, Community Engagement, Bird Watching
-- Types of activities offered: Outdoor Adventures
-- Destination: Gulu
-- Website : https://loremitours.com/
-- Type of supplier: Activities
-
-##   Uganda Wildlife Education Center (UWEC)
-- GPS Co-ordinators: 0.054561, 32.479401
-- Short Supplier Bio: A fun and exciting place to see and learn about animals of Uganda and the eco-system in which they live in.
-- Led By: Government
-- Email : info@uwec.go.ug
-- Contact number of Supplier: 414320520
-- Specific Experiences Offered: Keeper for a day, Day visits, Forest Trail
-- Types of activities offered: Nature and Wildlife
-- Destination: Entebbe
-- Website : https://uwec.ug/
-- Type of supplier: Activities
-
-## Guru-guru Caves and hills
-- GPS Co-ordinators: 2.909459, 32.053331
-- Short Supplier Bio: Guru-Guru caves is a historical site said to be hiding places for the locals during the Lamogi rebellion against the discrimination decree in 1991 during the colonial rule. Besides the existence of the natural caves, there are different beautiful features around like yellow
-- Led By: Community
-- Email : info@loremitours.com
-- Contact number of Supplier: 783269681
-- Specific Experiences Offered: Greyish landscape, Several reptile species lazing in the rocky caves, Butterflies, Birds and monkey species.
-- Types of activities offered: Outdoor Adventures
-- Destination: Gulu
-- Website : https://loremitours.com/
-- Type of supplier: Activities
-
-## Nkuringo Safaris
-- GPS Co-ordinators: 0.111699, 32.515997
-- Short Supplier Bio: Venture off-the-beaten-path into ancient rainforests where gorillas and chimpanzees live in harmony. With Nkuringo Safaris, you immerse yourself in the rich diversity of a region, meet its people and cultures, and collect new experiences that will transform your life. Offers walking safaris
-- Led By: Private
-- Email : info@nkuringosafaris.com
-- Contact number of Supplier: 702805580
-- Specific Experiences Offered:  Walking safaris
-- Types of activities offered: General Experiences
-- Destination: Entebbe
-- Website : https://www.nkuringosafaris.com/
-- Type of supplier: Activities
-
-## Amuru Hot Springs
-- GPS Co-ordinators: 2.801248, 31.896501
-- Short Supplier Bio: Many people now visit the springs, providing opportunities for cultural exchange and economic benefits through tourism.
-- Led By: Community
-- Email : info@loremitours.com
-- Contact number of Supplier: 783269681
-- Specific Experiences Offered: Swimming, Relaxation, Cultural Tours, Health Treatments
-- Types of activities offered: Outdoor Adventures
-- Destination: Gulu
-- Website : https://loremitours.com/
-- Type of supplier: Activities
-
-## Mabamba lodge
-- GPS Co-ordinators: 0.091656, 32.373665
-- Short Supplier Bio: Mabamba Bay Ramsar Site and Important Bird Area Home of the globally threatened Shoebills ( Balaeniceps rex), Papyrus Gonolek, Blue Swallow and Statunga. -Preservation -Local employment.-Shoebill watching
--Bird watching
--Forest walk
--Community engagement
-- Led By: Private
-- Email : info@mabambalodge.com
-- Contact number of Supplier: 753628839
-- Specific Experiences Offered: Shoebill watching, Bird watching, Forest walk, Community engagement, Cycling
-- Types of activities offered: Nature and Wildlife
-- Destination: Entebbe
-- Website : https://mabambalodge.com/home
-- Type of supplier: Activities, Accommodation
-
-## Kiwa Heritage
-- GPS Co-ordinators: 0.189191, 30.058132
-- Short Supplier Bio: To interest the community in environmental conservation and preserve the positive cultural norms and values of the Bankonzo people.
-- Led By: N/A
-- Email : info@kasesemc.go.ug
-- Contact number of Supplier: 787885452
-- Specific Experiences Offered: Cultural museum, Local brew, Swimming in hotsprings
-- Types of activities offered: Outdoor Adventures, Cultural Heritage & Traditions
-- Destination: Kasese
-- Website : https://kasesemc.go.ug/about-us
-- Type of supplier: Activities
-
-## Ngamba Island Chimpanzee sanctuary
-- GPS Co-ordinators: -0.100716, 32.653004
-- Short Supplier Bio: Ngamba Island Chimpanzee Sanctuary, is an island sanctuary in Uganda, dedicated to the care of orphaned eastern chimpanzees, that have been rescued by the Uganda Wildlife Authority. Many of the chimpanzees were rescued from poachers and are unlikely to survive reintroduction to the wild.
--No single use plastic at the sanctuary
--Money goes directly at supporting the chimpanzees
--Limited number of tourists at a time.
-- Led By: Government
-- Email : info@ngambaisland.org
-- Contact number of Supplier: 758221880
-- Specific Experiences Offered: Chimpanzee feeding, Guided tours, Educational programs, Volunteer opportunities
-- Types of activities offered: Nature and Wildlife
-- Destination: Entebbe
-- Website : https://ngambaisland.org/our-mission-and-vision/
-- Type of supplier: Activities
-
-## Utalii Creative
-- GPS Co-ordinators: N/A
-- Short Supplier Bio: Opportunity to showcase how we are rebranding Africa and promoting cultural preservation using souvenirs and media.
-- Led By: Women
-- Email : info@utaliicreative.com
-- Contact number of Supplier: 773855144
-- Specific Experiences Offered: Cultural Creative Games, Souvenirs
-- Types of activities offered: Art and Handicrafts
-- Destination: Kampala
-- Website : https://zzimbagames.com/projects/utali/
-- Type of supplier: Activities
-
-## Ndere Cultural Center
-- GPS Co-ordinators: 0.363477, 32.605774
-- Short Supplier Bio: The Ndere Troupe has done extensive research, documentation and, above all, in-depth training. The troupe now has a repertoire of over 40 authentic dances, countless songs, a unique African orchestra of all classes of musical instruments, developed humorous stories that put the performances in cultural context without turning the performances into boring lectures, designed and dressed the performances to fit modern stages, be watchable by all ages and social classes – without compromising authenticity. This is through -Cultural Dance
--Local couisine
--Accomodation
--Souvenirs
-- Led By: Private
-- Email : info@ndere.com / troupe@ndere.com
-- Contact number of Supplier: 772700105
-- Specific Experiences Offered: Cultural Dance, Local Cuisine, Accommodation, Souvenirs
-- Types of activities offered: Nature and Wildlife
-- Destination: Kampala
-- Website : https://ndere.com/
-- Type of supplier: Activities
-
-## Ewaffe Cultural Village
-- GPS Co-ordinators: 0.516411, 32.764384
-- Short Supplier Bio: Ewaffe Cultural village presents to you a feel of Uganda's unique cultural norms and traditions. 
-- Led By: Private, Community
-- Email : info@ewaffe.ug
-- Contact number of Supplier: 70408095
-- Specific Experiences Offered: Farm tours, Traditional food preparations, Bark cloth making, Craft making, Gender based education
-- Types of activities offered: Art and Handicrafts, Farm & Agricultural Tourism
-- Destination: Mukono
-- Website : https://www.ewaffe.ug/
-- Type of supplier: Activities
-
-## Mabira Forest
-- GPS Co-ordinators: 0.475951, 33.059910
-- Short Supplier Bio: Mabira Forest Reserve is situated 56 kilometers/35 miles along the Kampala-Jinja highway within Buikwe, Kayunga and Mukono districts and extends for 306 square kilometers (118 square miles/30,600 hectares) which makes it the largest Natural Forest reserve within Central Uganda, and the 6th largest Forest Reserve in Uganda. This forest Reserve is a perfect destination for a short safari like a weekend outing or on a short public holidays.
-
-
-- Led By: Government
-- Email : reservations@wildlife.go.ug
-- Contact number of Supplier: 414355000
-- Specific Experiences Offered: Birding, Nature walks, Camping, 
-- Types of activities offered: Nature and Wildlife
-- Destination: Mukono
-- Website : https://www.ugandaparks.com/ecotourism-sites/mabira-forest/
-- Type of supplier: Activities
-
-## Sana Gorilla Rafting
-- GPS Co-ordinators: -0.798328, 29.923009
-- Short Supplier Bio: These endless rivers found in the West of Uganda, give a new opportunity for such a community to arise and the local community to be inspired. Sadat gives back to the community by teaching the youth to swim. 
-- Led By: Private, Community
-- Email : Info@sanagorillarafting.com
-- Contact number of Supplier: 754944695
-- Specific Experiences Offered: Rafting Trips, Plant Farm Visits, Cycling with Locals, Hikes
-- Types of activities offered: Farm & Agricultural Tourism, Outdoor Adventures
-- Destination: Kigezi
-- Website : https://gorillaraftinguganda.com/
-- Type of supplier: Activities
-
-## Bush Wonderers (Murchison Walking Safaris)
-- GPS Co-ordinators: 2.398743, 31.673916
-- Short Supplier Bio: We are the first and the original walking safari in this area of Africa. Our expert guides will lead you on a 3-5 day walking safari, offering an unparalleled experience in your own private fully equipped mobile tented camp. 
-- Led By: Private
-- Email : info@bushwonderers.com
-- Contact number of Supplier: 783291399
-- Specific Experiences Offered: Custom Trip Safaris
-- Types of activities offered: Nature and Wildlife, Outdoor Adventures
-- Destination: Murchison Falls National Park
-- Website : https://www.bushwonderers.com/
-- Type of supplier: Activities
-
-## Bike Ventures
-- GPS Co-ordinators: 0.429741, 33.199796
-- Short Supplier Bio: All profits are allocated to three social projects that improve access to income generation (Bike4Work), education (Bike4School) and healthcare (Bike4Care) by providing bicycles to social entrepreneurs, students (and teachers) and health care workers.
-- Led By: Private
-- Email : info@bikeventures.org
-- Contact number of Supplier: 778366007
-- Specific Experiences Offered: Cycling Tours of Jinja
-- Types of activities offered: Outdoor Adventures
-- Destination: Jinja
-- Website : https://bikeventures.org/ug/
-- Type of supplier: Activities
-
-## Kara - Tunga Arts & Tours
-- GPS Co-ordinators: 2.527188, 34.665753
-- Short Supplier Bio: A social enterprise dealing in Karamoja Tourism Development aimed at improving community livelihoods, protecting nature & preserving cultural heritage. They do this by providing direct employment at our accommodation facilities, developing tourism products, regional tourism marketing and offering skilling opportunities through regional tourism and hospitality trainings.
-- Led By: Private, Community
-- Email : info@kara-tunga.com
-- Contact number of Supplier: 776833901
-- Specific Experiences Offered: Culturally Immersive Experiences with Local Communities, Nature-based Experiences, Wildlife Safaris, Cycling Tours, Eco-friendly Accommodation
-- Types of activities offered: Nature and Wildlife, Outdoor Adventures
-- Destination: Moroto
-- Website : https://www.kara-tunga.com/tours/
-- Type of supplier: Activities
-
-## Red Dirt
-- GPS Co-ordinators: 0.274494, 32.626678
-- Short Supplier Bio: Belive in zero waste and sustainability being an integral part of the activities. Their tours improve the lives of all of those that they encounter, from the guides they work with to the community they pass through and the lady who sells G-nuts at the corner of the street. This is through;
-- Led By: Private
-- Email : robin@reddirtuganda.com
-- Contact number of Supplier: 785253046
-- Specific Experiences Offered: Culturally Immersive Experiences with Local Communities, Nature-based Experiences, Wildlife Safaris, Cycling Route Development, Cycling Tours
-- Types of activities offered: Nature and Wildlife, Outdoor Adventures
-- Destination: Kampala
-- Website : https://reddirtuganda.com/
-- Type of supplier: Activities
-
-## Entanda Cultural Experience
-- GPS Co-ordinators: 0.393157, 32.075483
-- Short Supplier Bio: The Entanda Initiative offers an authentic visitor experience in a non-staged environment. Through active participation, visitors are able to learn a lot of things and they return home with bountiful knowledge and lessons for use in the future.Through;
--Traditional music performaces
--Talks (senga and kojja), 
--Games(omweso)
--Barkcloth making
--Food preparation and dining
--Taboos and totems as well as religion among others. 
-- Led By: Private
-- Email : entanda2014@gmail.com
-- Contact number of Supplier: 772340576
-- Specific Experiences Offered: Traditional music performances, Talks (senga and kojja), Games (omweso), Barkcloth making, Food preparation and dining, Taboos and totems as well as religion
-- Types of activities offered: Cultural Heritage & Traditions, Food and Culinary, Art and Handicrafts
-- Destination: Mityana
-- Website : https://entandatours.com/
-- Type of supplier: Activities
-
-## Ride 4 a Woman
-- GPS Co-ordinators: -0.967795, 29.615178
-- Short Supplier Bio: The organization exists to support local women struggling at home with issues associated with HIV, domestic violence and poverty.
-
-The accomodation also promotes eco-friendly practices and supports local communities.
-- Led By: Women, Community
-- Email : ride4awoman@gmail.com
-- Contact number of Supplier: 772607317
-- Specific Experiences Offered: Cooking Traditional Batwa/Bakiga Dishes, Learn to Weave, Tailoring, Traditional Music & Dance Performances, Eco-friendly Accommodation
-- Types of activities offered: Art and Handicrafts, Cultural Heritage & Traditions
-- Destination: Kigezi
-- Website : https://www.ride4awoman.org/
-- Type of supplier: Activities
-
-## KAFRED
-- GPS Co-ordinators: 0.406813, 30.407314
-- Short Supplier Bio: Its purpose is to protect the local environment while advancing health, education and economic growth in the wider local community.
-- Led By: Community
-- Email : tinkabigodi@gmail.com
-- Contact number of Supplier: 772468113
-- Specific Experiences Offered: Swamp Walks, Community Walks, Dance & Drama from the local groups
-- Types of activities offered: Performing Arts, Nature and Wildlife
-- Destination: Rwenzori - Albertine, Kampala
-- Website : https://bigoditourism.com/about-kafred/
-- Type of supplier: Activities
-
-## Ewakka Homestay & Community Experience
-- GPS Co-ordinators: 0.5956, 32.3793
-- Short Supplier Bio: Homestay accomodation
--Farm
--Milking cattle
--Feed cattle
--Local Food Experience
-- Led By: Private, Community
-- Email : home@ewakka.com
-- Contact number of Supplier: 7704080958
-- Specific Experiences Offered: Farm, Milking cattle, Feed cattle, Local Food Experience
-- Types of activities offered: Cultural Heritage & Traditions, Food and Culinary
-- Destination: Luwero
-- Website : https://ewakka.com
-- Type of supplier: Activities
+# Uganda responsible tourism suppliers
+111 entries
 
 ## A day in the life of a wildlife Scout
-- GPS Co-ordinators: 3.567594, 33.694287
-- Short Supplier Bio: Seeing elephants, buffalo, and other wildlife in Kidepo Valley National Park is a major attraction. However, these animals often wander into community lands, destroying crops and creating conflicts. To address this, KKAKKA Community Wildlife Association has established over 600 scouts in 30 Community Wildlife Scout groups. These volunteers are trained to scare off wildlife and patrol for poacher snares. 
-Join us for a day with the scouts, learning about their vital work and the challenges they face. Your participation directly supports their efforts and ensures the protection of both people and wildlife. 
-- Led By: Community
-- Email : info@kkakkawildlife.org
-- Contact number of Supplier: 772091488
-- Specific Experiences Offered: Participate in the scouts activities
-- Types of activities offered: Performing Arts
-- Destination: Kidepo National Park
-- Website : https://kkakkawildlife.org/
-- Type of supplier: Activities
+- ID: 193
+- District: Karenga
+- Supplier type: Activities
+- Contact number: +256 772 091 488
+- Region: Northern
+- Listing type: Business
+- Website: https://kkakkawildlife.org/
+- Experiences offered: Taking part in scout activities
+- Description: Wildlife from Kidepo Valley National Park, such as elephants and buffalo, often wanders onto community land and destroys crops. The KKAKKA Community Wildlife Association has set up over 600 volunteer scouts in 30 groups, trained to scare off wildlife and patrol for poachers' snares.
 
-## Nyangea Napore Cultural Experience
-- GPS Co-ordinators: 3.567594, 33.694287
-- Short Supplier Bio: Experience traditional village life with a visit to the Nyangea-Napore people. Enjoy a cultural performance with vibrantly adorned men and women in colorful costumes. Participate in daily activities such as collecting food from the granary, grinding grains, pounding food using a piston, community games and more.
-- Led By: Community
-- Email : info@kkakkawildlife.org
-- Contact number of Supplier: 772091488
-- Specific Experiences Offered: Collecting Food From Granary, Grinding Grains, Pounding Food Using a Piston, Community Games
-- Types of activities offered: Cultural Heritage & Traditions
-- Destination: Kidepo National Park
-- Website : https://kkakkawildlife.org/
-- Type of supplier: Activities
-
-## Dodoth Traditional Village Experience and Hike
-- GPS Co-ordinators: 3.567594, 33.694287
-- Short Supplier Bio: Immerse yourself in the unique pastoral way of life and vibrant culture of the Dodoth people, part of the diverse Karamojong cluster of tribes. With local hosts, hike to scenic villages, visit a local home (Manyatta), and learn about each of the structures found in the Manyatta as well as discover the Dodoth way of life by preparing local brew (Kwete), grinding grains, and chatting with your hosts. Sit and relax or stand and dance the Emuya and graceful Edonga dances. Finish your day with a hike to view the landscapes stretching from Kenya to South Sudan.
-- Led By: Community
-- Email : info@kkakkawildlife.org
-- Contact number of Supplier: 772091488
-- Specific Experiences Offered: Community walks, Traditional dance and performance
-- Types of activities offered: Cultural Heritage & Traditions, Performing Arts
-- Destination: Kidepo National Park
-- Website : https://kkakkawildlife.org/
-- Type of supplier: Activities
+Visitors spend a day with the scouts, learning about their work and its challenges. KKAKKA says visitor participation supports the scouts' work.
+- Activity tags: Conservation, Nature and Wildlife
+- Protected area: Kidepo Valley National Park
+- Email: info@kkakkawildlife.org
+- GPS: 3.567594, 33.694287
+- Led by: Community
 
 ## Acholi Culinary and Traditional Dance
-- GPS Co-ordinators: 3.567594, 33.694287
-- Short Supplier Bio: Experience the Acholi culture at Ayuwe-Palar village with traditional dances, songs, and local delicacies. Enjoy captivating dances with remarkable footwork, vibrant headdresses, swinging calabashes, and colorful costumes. Learn about the stories in the songs, and even have a go at the dances yourself. Taste local delicacies such as Lakotokoto (pounded sesame) or Malakwang (stewed greens) and experience Acholi hospitality through shared meals.
-- Led By: Community
-- Email : info@kkakkawildlife.org
-- Contact number of Supplier: 772091488
-- Specific Experiences Offered: Traditional dance performances in colourful traditional wear
-- Types of activities offered: Performing Arts
-- Destination: Kidepo National Park
-- Website : https://kkakkawildlife.org/
-- Type of supplier: Activities
+- ID: 129
+- District: Karenga
+- Supplier type: Activities
+- Contact number: +256 772 091 488
+- Region: Northern
+- Listing type: Business
+- Nearest town or village: Ayuwe-Palar
+- Website: https://kkakkawildlife.org/
+- Experiences offered: Traditional dance performances, Local food tasting, Shared meals
+- Description: An Acholi cultural experience at Ayuwe-Palar village in the Kidepo Valley National Park area. Visitors watch traditional dances and songs, hear the stories behind them and can join in.
+
+They taste local dishes such as lakotokoto (pounded sesame) and malakwang (stewed greens) at a shared meal.
+- Activity tags: Performing Arts
+- Protected area: Kidepo Valley National Park
+- Email: info@kkakkawildlife.org
+- GPS: 3.567594, 33.694287
+- Led by: Community
+
+## Acholi Traditional experience
+- ID: 121
+- Travelife / Fairtrade: Engaged
+- District: Gulu
+- Supplier type: Activities
+- Region: Northern
+- Listing type: Business
+- Website: https://www.loremitours.com/
+- Experiences offered: Acholi village walks, Acholi culinary experience, Hikes
+- Description: Acholi Traditional Experience is run by Loremi Tours in the Acholi area of northern Uganda. Visitors take village walks, try Acholi food and go on hikes. Loremi says it curates tours and tailor-made safaris and encourages eco-friendly practices.
+- Activity tags: Food and Culinary, Outdoor Adventures
+- Email: info@loremitours.com
+- GPS: 2.773470, 32.311290
+- Led by: Community, Private
+
+## Adrift Uganda
+- ID: 196
+- Travelife / Fairtrade: Engaged
+- Supplier type: Accommodation, Activities
+- Contact number: +256 752 225 587
+- Listing type: Business
+- Website: https://www.adrift.ug/about/
+- Experiences offered: Whitewater rafting, Family rafting, Bungee jumping, Kayaking adventures, Community conservation projects, Community walks, Mountain biking, Quad biking
+- Description: Adrift Uganda runs adventure activities from its river base on the banks of the Nile. Options include whitewater and family rafting, bungee jumping, kayaking, mountain biking, quad biking, horseback riding and team building, as well as community walks and community conservation projects.
+
+Adrift says its operations are managed to protect the environments it works in, with a goal of leaving no trace.
+- Activity tags: Outdoor Adventures
+- Email: info@adrift.ug
+- Led by: Community, Private
+
+## Agartha’s taste of Uganda
+- ID: 205
+- Supplier type: Activities
+- Contact number: +256 772 721 155
+- Listing type: Business
+- Experiences offered: Community tours, Culinary experience, Storytelling
+- Description: Agartha's Taste of Uganda is a food tour in a small village on the edge of Queen Elizabeth National Park, hosted by Agartha, a member of the local community group.
+
+She shows how Bakiga women prepare their favourite food, from how the ingredients are grown and harvested to sifting, grinding and cooking. Visitors help prepare the food and taste it while Agartha tells stories of life as a Bakiga wife, and leave with a traditional snack.
+- Activity tags: Cultural Heritage & Traditions, Farm & Agricultural Tourism, Food and Culinary
+- Protected area: Queen Elizabeth National Park
+- Led by: Women
+
+## Agoro Hill
+- ID: 156
+- District: Lamwo
+- Supplier type: Activities
+- Contact number: +256 783 269 681
+- Region: Northern
+- Listing type: Place
+- Website: https://loremitours.com/
+- Experiences offered: Hiking, Bird watching, Cultural tours, Agricultural workshops
+- Description: Agoro Hill in Lamwo District is an archaeological site with ancient terraced farming systems. Visitors hike, watch birds, take cultural tours and join agricultural workshops on traditional farming and land use.
+- Activity tags: Outdoor Adventures
+- Email: info@loremitours.com
+- GPS: 3.790766, 33.021009
+- Led by: Community
+
+## Agro Tourism Association
+- ID: 226
+- District: Mukono
+- Supplier type: Activities
+- Contact number: +256 772 062 903
+- Region: Central
+- Listing type: Business
+- Website: https://agro-tourism.org/contact/
+- Description: Agro-Tourism Association (ATA) is an agribusiness and tourism development company. It offers services that help farmers, especially young people and women, run farming as a business and increase their income.
+- Activity tags: Farm & Agricultural Tourism
+- Email: info@agro-tourism.org
+- GPS: 0.410400, 32.806730
+- Led by: Private
+
+## Amuru Hot Springs
+- ID: 146
+- District: Amuru
+- Supplier type: Activities
+- Contact number: +256 783 269 681
+- Region: Northern
+- Listing type: Place
+- Website: https://loremitours.com/
+- Experiences offered: Swimming, Relaxation, Cultural tours, Health treatments
+- Description: Amuru Hot Springs in Amuru District offers swimming, relaxation, cultural tours and health treatments.
+- Activity tags: Outdoor Adventures
+- Email: info@loremitours.com
+- GPS: 2.801248, 31.896501
+- Led by: Community
+
+## Awere Hill
+- ID: 155
+- District: Pader
+- Supplier type: Activities
+- Contact number: +256 783 269 681
+- Region: Northern
+- Listing type: Place
+- Website: https://loremitours.com/
+- Description: Awere Hill in Pader District has archaeological sites and ancient rock art, in a quiet area of green vegetation.
+
+Local people believe it is a home for spirits, and it is claimed that LRA leader Joseph Kony went there to recharge his powers.
+- Activity tags: Outdoor Adventures
+- Email: info@loremitours.com
+- GPS: 2.689475, 32.793310
+- Led by: Community
+
+## Batwa Empowerment Village (BEV)
+- ID: 204
+- District: Kanungu
+- Supplier type: Activities
+- Contact number: +256 772 721 155
+- Region: Western
+- Listing type: Business
+- Website: https://batwauganda.org/
+- Experiences offered: Cultural tours
+- Description: The Gahinga Batwa Community Village was built in 2018 by the Volcanoes Safaris Partnership Trust as a permanent home for a Batwa community. The record says it houses more than 153 people, and a vocational training centre has been added to help residents build skills.
+
+Visitors take cultural tours, and guests at Gahinga Lodge can donate to the Batwa through the trust.
+- Activity tags: Cultural Heritage & Traditions
+- GPS: -0.976483, 29.620250
+- Led by: Private
+
+## Bigodi Grey Parrot Museum
+- ID: 211
+- District: Kamwenge
+- Supplier type: Activities
+- Contact number: +256 777 786 574
+- Region: Western
+- Listing type: Business
+- Nearest town or village: Bigodi
+- Website: https://greyparrotmuseum-uganda.org/
+- Description: The Grey Parrot Museum in Bigodi, on the edge of Kibale National Park, focuses on the conservation and ecology of the African grey parrot. The record describes it as Africa's first museum dedicated solely to parrots.
+
+It is run by the Parrot Tree Caretakers Association, a community group founded in 2020 by Nick Byaba with local farmers, who grow and protect oil palm trees that grey parrots feed on.
+- Activity tags: Conservation, Nature and Wildlife
+- Protected area: Kibale National Park
+- Email: savegreys256@gmail.com
+- GPS: 0.424632, 30.410867
+- Led by: Private
+
+## Bike Ventures
+- ID: 137
+- District: Jinja
+- Supplier type: Activities
+- Contact number: +256 778 366 007
+- Region: Eastern
+- Listing type: Business
+- Nearest town or village: Jinja
+- Website: https://bikeventures.org/ug/
+- Experiences offered: Cycling tours of Jinja
+- Description: Bike Ventures offers cycling tours of Jinja.
+
+It says all profits go to three social projects that provide bicycles to social entrepreneurs (Bike4Work), students and teachers (Bike4School) and health workers (Bike4Care).
+- Activity tags: Outdoor Adventures
+- Email: info@bikeventures.org
+- GPS: 0.429741, 33.199796
+- Led by: Private
+
+## Budogo Forest Reserve
+- ID: 174
+- District: Masindi
+- Supplier type: Activities
+- Contact number: +256 414 355 000
+- Region: Western
+- Listing type: Place
+- Website: https://www.ugandaparks.com/ecotourism-sites/
+- Experiences offered: Birding, Forest walks, Primate tracking
+- Description: Budongo Forest Reserve in Masindi District is described as the largest mahogany forest in East Africa, with many tree species and vegetation types. Visitors go birding, take forest walks and track primates.
+- Activity tags: Nature and Wildlife
+- Protected area: Budongo Forest Reserve
+- Email: reservations@wildlife.go.ug
+- GPS: 1.648900, 31.576090
+- Led by: Government
+
+## Buhoma Lodge
+- ID: 207
+- District: Kanungu
+- Supplier type: Accommodation
+- Contact number: +256 772 721 155
+- Region: Western
+- Listing type: Business
+- Nearest town or village: Buhoma
+- Website: https://buhoma.ugandaexclusivecamps.com/
+- Experiences offered: Cultural experience, Bwindi Forest walk, Butterfly watching, Bird watching
+- Description: Buhoma Lodge offers accommodation near Bwindi Forest in Kanungu District. Guests take cultural experiences, walk in Bwindi Forest and watch butterflies and birds. The lodge says it aims to operate with low impact, in a socially and environmentally responsible way.
+- Activity tags: Cultural Heritage & Traditions, Nature and Wildlife, Outdoor Adventures
+- Protected area: Bwindi Impenetrable National Park
+- Email: exclusivecamps@wildfrontiers-uganda.com
+- GPS: -0.988051, 29.615259
+- Led by: Private
+
+## Bush Wonderers (Murchison Walking Safaris)
+- ID: 135
+- District: Nwoya
+- Supplier type: Activities
+- Contact number: +256 706 539 429
+- Region: Northern
+- Listing type: Business
+- Website: https://www.bushwonderers.com/
+- Experiences offered: Walking safaris
+- Description: Bush Wonderers runs walking safaris and mobile tented camps in Murchison Falls National Park. It says its impact comes mainly through nature interpretation, education and conservation.
+- Activity tags: Nature and Wildlife, Outdoor Adventures
+- Protected area: Murchison Falls National Park
+- Email: info@bushwonderers.com
+- GPS: 2.398743, 31.673916
+- Led by: Private
+
+## Busingiro Eco Tourism Site
+- ID: 153
+- District: Buliisa
+- Supplier type: Activities
+- Contact number: +256 414 355 000
+- Region: Western
+- Listing type: Place
+- Website: https://ugandawildlife.org/
+- Experiences offered: Camping, Education centre visit, Forest nature walk, Birding, Chimpanzee trekking
+- Description: Busingiro Eco Tourism Site lies within Budongo Forest. The record says the forest has the largest number of mahogany trees in East Africa, with trees up to 80 metres tall.
+
+Visitors camp, visit the education centre, take forest walks, go birding and track chimpanzees.
+- Activity tags: Nature and Wildlife
+- Protected area: Budongo Forest Reserve
+- Email: reservations@wildlife.go.ug
+- GPS: 1.715757, 31.470192
+- Led by: Government
+
+## Bwindi Impenetrable Forest
+- ID: 177
+- District: Kisoro
+- Supplier type: Activities
+- Contact number: +256 414 355 000
+- Region: Western
+- Listing type: Place
+- Website: https://ugandawildlife.org/
+- Experiences offered: Gorilla trekking, Birding, Nature walks, Cultural encounters, Mountain biking, Village walks
+- Description: Bwindi Impenetrable National Park is a forest park in western Uganda. Visitors go gorilla trekking, birding, nature walks, mountain biking and village walks, and meet the communities living around the forest.
+- Activity tags: Cultural Heritage & Traditions, Nature and Wildlife
+- Protected area: Bwindi Impenetrable National Park
+- Email: reservations@wildlife.go.ug
+- GPS: -1.051849, 29.620101
+- Led by: Government
+
+## Calsaar Cultural Initiative
+- ID: 209
+- District: Mukono
+- Supplier type: Activities
+- Contact number: +256 700 684 457
+- Region: Central
+- Listing type: Business
+- Website: https://calsaarculturalinitiative.org/
+- Experiences offered: Performing arts and drama
+- Description: Calsaar Cultural Initiative is a youth-led group in Mukono District that offers performing arts and drama. It aims to build awareness of local culture and use culture to support sustainable development.
+- Activity tags: Performing Arts
+- Email: calsaarculturalin@gmail.com
+- GPS: 0.363864, 32.691655
+- Led by: Youth
+
+## Casa Uganda Safaris
+- ID: 187
+- District: Mbale
+- Supplier type: Accommodation, Activities
+- Contact number: +256 788 965 403
+- Region: Eastern
+- Listing type: Business
+- Website: https://www.casasafarisuganda.com/
+- Experiences offered: Coffee experience, Bagishu cultural experience, Culinary experience, Nature walks, Hiking
+- Description: Casa Uganda Safaris is a Uganda-based company that designs programmes linking visitors with communities and partners. It offers a coffee experience, a Bagishu cultural experience, a culinary experience, nature walks and hiking.
+
+It says its work includes ethical sourcing of Ugandan coffee and tourism that benefits local communities.
+- Activity tags: Cultural Heritage & Traditions, Farm & Agricultural Tourism, Food and Culinary, Outdoor Adventures
+- Email: hello@casasafarisuganda.com
+- GPS: 1.073343, 34.181293
+- Led by: Private
 
 ## Community Wildlife Scouts Experience
-- GPS Co-ordinators: N/A
-- Short Supplier Bio: Tourism product developed under the B4R project around Murschion National park to support the conservancy communities in generating tourism revenues thus safeguarding the human/wildlife conflicts, whilst providing safari tourists supplementary community based tourism experiences.
-- Led By: Community
-- Email : N/a
-- Contact number of Supplier: 7834680431
-- Specific Experiences Offered: An experience of how the wildlife scouts manage human-wildlife conflicts using the local methods.
-- Types of activities offered: General Experiences
-- Destination: Murchison Falls National Park
-- Website : https://www.youtube.com/watch?v=Lm3eH5vnLq8
-- Type of supplier: Activities
+- ID: 133
+- Supplier type: Activities
+- Listing type: Business
+- Programme: B4R
+- Experiences offered: Wildlife scout experience
+- Description: Visitors see how community wildlife scouts around Murchison Falls National Park manage conflict between people and wildlife using local methods.
+- Activity tags: Conservation, Nature and Wildlife
+- Protected area: Murchison Falls National Park
+- Led by: Community
 
-## Orum Ki Tamo Group (Acholi Dance Group)
-- GPS Co-ordinators: N/A
-- Short Supplier Bio: Tourism product developed under the B4R project around Murschion National park to support the conservancy communities in generating tourism revenues thus safeguarding the human/wildlife conflicts, whilst providing safari tourists supplementary community based tourism experiences.
-- Led By: Community
-- Email : N/a
-- Contact number of Supplier: 783468031
-- Specific Experiences Offered: Different Acholi dances each with a significant meaning attached to it, Preserving the Acholi traditional dances and tales during the performances and also passed onto the young performers
-- Types of activities offered: Cultural Heritage & Traditions
-- Destination: Murchison Falls National Park
-- Website : https://www.youtube.com/watch?v=Lm3eH5vnLq8
-- Type of supplier: Activities
+## Cycad Village Uganda
+- ID: 220
+- District: Kitagwenda
+- Supplier type: Accommodation, Activities
+- Contact number: +256 703 244 336
+- Region: Western
+- Listing type: Business
+- Experiences offered: Hiking, Community walks, Culinary experience, Boat ride, Fishing, Coffee experience
+- Description: Cycad Village Uganda offers accommodation and activities in Kitagwenda District. Guests hike, take community walks, culinary experiences, boat rides, fishing and a coffee experience.
+- Activity tags: Cultural Heritage & Traditions, Food and Culinary, Nature and Wildlife, Outdoor Adventures
+- Email: mwebingwa@gmail.com
+- GPS: -0.032008, 30.297441
+- Led by: Private
+
+## Deo’s Homestead Tour
+- ID: 219
+- District: Rubirizi
+- Supplier type: Activities
+- Contact number: +256 781 201 368
+- Region: Western
+- Listing type: Business
+- Experiences offered: Learning to manage human-wildlife conflict, Riding a Kihihi bike, Homestead visit
+- Description: Deo's Homestead Tour shows how a farmer near Queen Elizabeth National Park manages conflict with wildlife. Deo spends nights in a small hut watching for elephants that could destroy his harvest.
+
+Visitors see how he burns elephant dung mixed with homegrown chilli to keep animals away and beats a jerry can to warn neighbours. They may help repair the trench, try pruning banana plants with a machete and ride a Kihihi bike.
+- Activity tags: Conservation, Nature and Wildlife
+- Protected area: Queen Elizabeth National Park
+- GPS: -0.281834, 29.964330
+- Led by: Private
+
+## Dodoth Traditional Village Experience and Hike
+- ID: 128
+- District: Karenga
+- Supplier type: Activities
+- Contact number: +256 772 091 488
+- Region: Northern
+- Listing type: Business
+- Website: https://kkakkawildlife.org/
+- Experiences offered: Community walks, Traditional dance and performance, Manyatta visit, Preparing local brew, Grinding grains
+- Description: A village experience with the Dodoth people, part of the Karamojong cluster, in the Kidepo Valley National Park area. With local hosts, visitors hike to villages and visit a manyatta (homestead), learning about each of its structures.
+
+They help prepare local brew (kwete), grind grain and can join the Emuya and Edonga dances. The day ends with a hike to view landscapes stretching towards Kenya and South Sudan.
+- Activity tags: Cultural Heritage & Traditions, Performing Arts
+- Protected area: Kidepo Valley National Park
+- Email: info@kkakkawildlife.org
+- GPS: 3.567594, 33.694287
+- Led by: Community
+
+## Easy Afric Designs
+- ID: 231
+- District: Wakiso
+- Supplier type: Activities
+- Contact number: +256 702 887 225
+- Region: Central
+- Listing type: Business
+- Nearest town or village: Entebbe
+- Experiences offered: Handicraft making experiences
+- Description: Easy Afric Designs is an enterprise, registered in 2004, that makes and sells handmade products from Ugandan bark cloth, including interior decor, tote bags, pouches and corporate items. It describes itself as fair-trade oriented.
+
+It offers handicraft experiences so visitors can learn the stories behind the products. Some products are made with communities using traditional knowledge, skills and materials.
+- Activity tags: Art and Handicrafts
+- Email: easyafricdesigns@gmail.com
+- GPS: 0.264734, 32.557267
+- Led by: Private
+
+## Emburara Farm lodge
+- ID: 171
+- District: Mbarara
+- Supplier type: Accommodation
+- Contact number: +256 776 210 872
+- Region: Western
+- Listing type: Business
+- Website: https://www.emburarafarmlodge.com/
+- Experiences offered: Horse riding, Farm tours, Bird watching, Nature walks, Cultural experiences
+- Description: Emburara Farm Lodge is a farm lodge in Mbarara District. Guests go horse riding, take farm tours, watch birds, take nature walks and join cultural experiences. The lodge describes itself as an eco-luxury lodge promoting cultural tourism and the conservation of plants and wildlife.
+- Activity tags: Art and Handicrafts, Farm & Agricultural Tourism
+- Email: info@emburarafarmlodge.com
+- GPS: -0.545527, 30.595874
+- Led by: Private
+
+## Entanda Cultural Experience
+- ID: 140
+- District: Mityana
+- Supplier type: Activities
+- Contact number: +256 772 340 576
+- Region: Central
+- Listing type: Business
+- Website: https://entandatours.com/
+- Experiences offered: Traditional music performances, Senga and kojja talks, Omweso games, Bark cloth making, Food preparation and dining, Taboos, totems and religion
+- Description: Entanda offers a cultural experience in Mityana District, which it describes as non-staged and based on taking part.
+
+Visitors join traditional music performances, senga and kojja talks, omweso games, bark cloth making, and food preparation and dining. Sessions also cover taboos, totems and religion.
+- Activity tags: Art and Handicrafts, Cultural Heritage & Traditions, Food and Culinary
+- Email: entanda2014@gmail.com
+- GPS: 0.393157, 32.075483
+- Led by: Private
+
+## Ewaffe Cultural Village
+- ID: 138
+- District: Mukono
+- Supplier type: Activities
+- Contact number: +256 704 080 958
+- Region: Central
+- Listing type: Business
+- Website: https://www.ewaffe.ug/
+- Experiences offered: Farm tours, Traditional food preparation, Bark cloth making, Craft making, Gender-based education, Cultural experience, Traditional storytelling
+- Description: Ewaffe Cultural Village in Mukono District introduces visitors to Ugandan cultural norms and traditions.
+
+Activities include farm tours, traditional food preparation, bark cloth making, craft making, storytelling and gender-based education.
+- Activity tags: Art and Handicrafts, Farm & Agricultural Tourism
+- Email: info@ewaffe.ug
+- GPS: 0.516411, 32.764384
+- Led by: Community, Private
+
+## Ewakka Traditional Village and Community Experience
+- ID: 127
+- District: Luwero
+- Supplier type: Activities
+- Contact number: +256 750 996 645
+- Region: Central
+- Listing type: Business
+- Website: https://ewakka.com
+- Experiences offered: Farm visit, Milking cattle, Feeding cattle, Local food experience
+- Description: Ewakka offers a traditional village and community experience with homestay accommodation in Luwero District. Visitors visit the farm, milk and feed cattle and try local food.
+- Activity tags: Cultural Heritage & Traditions, Food and Culinary
+- Email: home@ewakka.com
+- GPS: 0.630170, 32.380796
+- Led by: Community, Private
 
 ## Ex- Poacher Demonstration
-- GPS Co-ordinators: N/A
-- Short Supplier Bio: Tourism product developed under the B4R project around Murschion National park to support the conservancy communities in generating tourism revenues thus safeguarding the human/wildlife conflicts, whilst providing safari tourists supplementary community based tourism experiences.
-- Led By: Community
-- Email : gokello@ugandabiodiversity.rti.org
-- Contact number of Supplier: 778478940
-- Specific Experiences Offered: Captivating demonstration by ex-poachers through drama of how they used to carry out poaching.
-- Types of activities offered: General Experiences
-- Destination: Murchison Falls National Park
-- Website : https://www.youtube.com/watch?v=Lm3eH5vnLq8
-- Type of supplier: Activities
+- ID: 126
+- Supplier type: Activities
+- Contact number: +256 778 478 940
+- Listing type: Business
+- Programme: B4R
+- Experiences offered: Drama demonstration by ex-poachers
+- Description: Former poachers show, through drama, how they used to poach. The experience takes place in communities around Murchison Falls National Park.
+- Activity tags: Conservation
+- Protected area: Murchison Falls National Park
+- Email: gokello@ugandabiodiversity.rti.org
+- Led by: Community
 
-## Bahima Arts and Crafts Experience
-- GPS Co-ordinators: -0.594181, 30.974847
-- Short Supplier Bio: Indulge in the enchanting world of Bahima cultural arts and crafts. Learn ancestral secrets whispered into vibrant sisal pot covers, explore a kaleidoscope of colors in intricate beaded jewelry and cowhide decorations.
+## Gorilla Highlands Coffee
+- ID: 225
+- District: Kisoro
+- Supplier type: Activities
+- Contact number: +256 787 408 988
+- Region: Western
+- Listing type: Business
+- Website: https://www.gorillahighlands.coffee/
+- Experiences offered: Cycling tours, Coffee tours, Gorilla trekking
+- Description: Gorilla Highlands Coffee Association offers tours in Kisoro District where visitors learn about the coffee industry and local culture. Tours include cycling, coffee tours and gorilla trekking.
+- Activity tags: Farm & Agricultural Tourism, Nature and Wildlife, Outdoor Adventures
+- Email: info@gorillahighlandscoffee.com
+- GPS: -1.283090, 29.689630
+- Led by: Private
 
-As you embellish scarves and knot threads, the women share stories of daily life. Leave with more than souvenirs – learn a new skills and support local women artisans who preserve the cultural legacy of their community.
-- Led By: Community
-- Email : N/a
-- Contact number of Supplier: 753321009
-- Specific Experiences Offered: Immerse in Bahima creativity, Traditional Storytelling, Craftsmaking (Beadwork, Milkpot Covers, Walking Sticks etc), Traditional Jewellery Making
-- Types of activities offered: Cultural Heritage & Traditions
-- Destination: L.Mburo National Park
-- Website : https://rccuganda.org/
-- Type of supplier: Activities
+## Got Moro Hill
+- ID: 143
+- District: Gulu
+- Supplier type: Activities
+- Contact number: +256 783 269 681
+- Region: Northern
+- Listing type: Place
+- Website: https://loremitours.com/
+- Experiences offered: Hiking, Cultural tours, Community engagement, Bird watching
+- Description: Got Moro Hill in Gulu District is a sacred site for the Acholi people, where traditional rituals and ceremonies are performed. Visitors hike, watch birds, take cultural tours and meet the community.
+- Activity tags: Outdoor Adventures
+- Email: info@loremitours.com
+- GPS: 2.773470, 32.311290
+- Led by: Community
 
-## Community Cycling Tours
-- GPS Co-ordinators: -0.594181, 30.974847
-- Short Supplier Bio: 
-Cycle with a local guide through vibrant Bahima villages and along scenic trails as you view grazing animals or spot one of 350 bird species found in this landscape. Learn ancient cattle-herding traditions while sharing stories with local community members about the coexistence between wildlife, people, and their cattle. This isn’t just a cycle ride; it’s a cultural immersion, interwoven with nature, wildlife, and the Bahima spirit.
-- Led By: Community
-- Email : N/a
-- Contact number of Supplier: 753321009
-- Specific Experiences Offered: Cycling Tours, Cultural Experiences, Community Engagement
-- Types of activities offered: Outdoor Adventures
-- Destination: L.Mburo National Park
-- Website : https://rccuganda.org/
-- Type of supplier: Activities
+## Guru-guru Caves and hills
+- ID: 142
+- District: Amuru
+- Supplier type: Activities
+- Contact number: +256 783 269 681
+- Region: Northern
+- Listing type: Place
+- Website: https://loremitours.com/
+- Description: Guru-Guru Caves and hills in Amuru District are a historical site. The caves are said to have been hiding places for local people during the Lamogi rebellion under colonial rule.
 
-## Community Nature Walk
-- GPS Co-ordinators: -0.594181, 30.974847
-- Short Supplier Bio: Walk with a local guide through vibrant Bahima villages and along scenic trails as you view grazing animals or spot one of 350 bird species found in this landscape. Learn ancient cattle-herding traditions while sharing stories with local community members about the coexistence between wildlife, people, and their cattle. This isn’t just a walk; it’s a cultural immersion, interwoven with nature, wildlife, and the Bahima spirit.
-- Led By: Community
-- Email : N/a
-- Contact number of Supplier: 753321009
-- Specific Experiences Offered: Domestic/Wildlife Interaction, Interactions with Cattle Keepers, Nature Interpretation, Story telling
-- Types of activities offered: Nature and Wildlife
-- Destination: L.Mburo National Park
-- Website : https://rccuganda.org/
-- Type of supplier: Activities
+Visitors can see reptiles in the rocky caves, as well as butterflies, birds and monkeys.
+- Activity tags: Outdoor Adventures
+- Email: info@loremitours.com
+- GPS: 2.909459, 32.053331
+- Led by: Community
 
-## Cows and Milk (Ankole Rich Cultural Heritage)
-- GPS Co-ordinators: -0.594181, 30.974847
-- Short Supplier Bio: From the homestead of the iconic long-horn cow, embark on an enriching journey through the heart of Ankole culture. Experience the vibrant pulse of Ankole life as majestic cattle gather in the kraal, accompanied by herdsmen sharing tales amidst the clinking of gourds. Immerse yourself in the women’s domain, a cozy cultural hut resonating with stories and the tools used to craft milk products into tangy yogurt and smoky delights, integral to daily life. Depart with a treasury of stories, a taste of tradition, and a profound connection to a people deeply rooted in their land, animals, and unwavering spirit.
-- Led By: Community
-- Email : N/a
-- Contact number of Supplier: 753321009
-- Specific Experiences Offered: Story Tells of Bahima Livelyhood, Graze cattle, Milk Cattle, 
-- Types of activities offered: Cultural Heritage & Traditions
-- Destination: L.Mburo National Park
-- Website : https://rccuganda.org/
-- Type of supplier: Activities
+## Home of Friends
+- ID: 159
+- District: Kapchorwa
+- Supplier type: Accommodation
+- Contact number: +256 703 276 181
+- Region: Eastern
+- Listing type: Business
+- Nearest town or village: Kapchorwa
+- Website: https://www.homeoffriends.com/
+- Experiences offered: Hiking, Birdwatching, Cultural tours, Running adventures, Cooking with the Kapchorwa Mamas
+- Description: Home of Friends is a guesthouse and adventure base in Kapchorwa, on the slopes of Mount Elgon beyond Sipi Falls.
 
-## Acholi Traditional experience (Loremi Tours)
-- GPS Co-ordinators: 2.773470, 32.311290
-- Short Supplier Bio: Loremi specializes in carefully curating tours and providing immersive experiences that allow for connections with the soul of Acholi. This is combined with unforgettable and tailor made safaris, encouraging eco-friendly practices. 
-- Led By: Community, Private
-- Email : info@loremitours.com
-- TravelLife / Fairtrade: Engaged
-- Contact number of Supplier: 75383785
-- Specific Experiences Offered: Acholi Village Walks, Acholi Culinary Experience, Hikes
-- Types of activities offered: Food and Culinary, Outdoor Adventures
-- Destination: Acholi
-- Website : https://www.loremitours.com/
-- Type of supplier: Activities
+Guests take guided hikes to waterfalls and mountain trails, go running, cook with the Kapchorwa Mamas and spend evenings by the campfire. It works with local guides and entrepreneurs, and says its visits open up opportunities for the wider community.
+- Activity tags: Cultural Heritage & Traditions, Outdoor Adventures
+- Email: info@homeoffriends.com
+- GPS: 1.388199, 34.445636
+- Led by: Private
 
-## IK Community (Kara-tunga Tours)
-- GPS Co-ordinators: 2.527167, 34.665742
-- Short Supplier Bio: This activity supports preservation of the Ik culture and traditions.
-- Led By: Community
-- Email : theo@kara-tunga.com
-- Contact number of Supplier: 776833901
-- Specific Experiences Offered: Ik Cultural Experience, Timu Forest Walk, Mt. Morugole Hike, Accommodation
-- Types of activities offered: Cultural Heritage & Traditions
-- Destination: Karamoja
-- Website : https://www.kara-tunga.com/tours/ik-tribe-cultural-experience/
-- Type of supplier: Activities
+## Igongo Country Hotel and Cultural Center
+- ID: 172
+- District: Isingiro
+- Supplier type: Accommodation
+- Contact number: +256 752 008 724
+- Region: Western
+- Listing type: Business
+- Experiences offered: Cultural tours, Nature walks, Traditional dance performances, Craft workshops
+- Description: Igongo Country Hotel and Cultural Center offers accommodation and cultural activities in Isingiro District. Visitors take cultural tours and nature walks, watch traditional dance and join craft workshops.
+- Activity tags: Art and Handicrafts, Cultural Heritage & Traditions, Outdoor Adventures
+- Email: info@igongo.co.ug
+- GPS: -0.603636, 30.655782
+- Led by: Private
+
+## IK Community
+- ID: 122
+- District: Moroto
+- Supplier type: Activities
+- Contact number: +256 776 833 901
+- Region: Northern
+- Listing type: Business
+- Website: https://www.kara-tunga.com/tours/ik-tribe-cultural-experience/
+- Experiences offered: Ik cultural experience, Timu Forest walk, Mount Morungole hike
+- Description: The Ik Community experience takes place in the Karamoja area of north-eastern Uganda. Visitors take part in an Ik cultural experience, a walk in Timu Forest and a hike on Mount Morungole. The record says the activity supports the preservation of Ik culture and traditions.
+- Activity tags: Cultural Heritage & Traditions
+- Email: theo@kara-tunga.com
+- GPS: 2.527167, 34.665742
+- Led by: Community
+
+## Ishasha Community Uplift Group
+- ID: 160
+- District: Kanungu
+- Supplier type: Activities
+- Contact number: +256 772 721 155
+- Region: Western
+- Listing type: Business
+- Nearest town or village: Ishasha
+- Website: https://www.ugandaexclusivecamps.com/responsible-tourism/
+- Experiences offered: Cultural experience, Art crafts, Homestay visits
+- Description: Ishasha Community Uplift Group offers cultural experiences, arts and crafts and homestay visits in Kanungu District.
+- Activity tags: Art and Handicrafts, Cultural Heritage & Traditions, Performing Arts
+- Email: exclusivecamps@wildfrontiers-uganda.com
+- GPS: -0.713786, 29.674825
+- Led by: Private
+
+## Ishasha Wilderness camp
+- ID: 206
+- District: Kanungu
+- Supplier type: Accommodation
+- Contact number: +256 772 721 155
+- Region: Western
+- Listing type: Business
+- Nearest town or village: Ishasha
+- Website: https://ishasha.ugandaexclusivecamps.com/
+- Experiences offered: Community tours, Boat cruise, Bird watching, Chimpanzee trekking
+- Description: Ishasha Wilderness Camp offers accommodation in Kanungu District. Guests take community tours, boat cruises, bird watching and chimpanzee trekking. The camp says it aims to operate with low impact, in a socially and environmentally responsible way.
+- Activity tags: Cultural Heritage & Traditions, Nature and Wildlife, Outdoor Adventures
+- Email: exclusivecamps@wildfrontiers-uganda.com
+- GPS: -0.549690, 29.720974
+- Led by: Private
+
+## KAFRED
+- ID: 132
+- District: Kamwenge
+- Supplier type: Activities
+- Contact number: +256 772 468 113
+- Region: Western
+- Listing type: Business
+- Nearest town or village: Bigodi
+- Website: https://bigoditourism.com/about-kafred/
+- Experiences offered: Swamp walks, Community walks, Dance and drama by local groups
+- Description: KAFRED is a community organisation based in Bigodi, Kamwenge District. Visitors take swamp walks and community walks and watch dance and drama by local groups.
+
+Its stated purpose is to protect the local environment while advancing health, education and economic growth in the wider community.
+- Activity tags: Conservation, Nature and Wildlife, Performing Arts
+- Email: tinkabigodi@gmail.com
+- GPS: 0.406813, 30.407314
+- Led by: Community
+
+## Kalongo rock
+- ID: 147
+- District: Agago
+- Supplier type: Activities
+- Contact number: +256 783 269 681
+- Region: Northern
+- Listing type: Place
+- Nearest town or village: Kalongo
+- Website: https://loremitours.com/
+- Experiences offered: Hiking, Rock climbing
+- Description: Kalongo Rock is a large granite volcanic plug above the town of Kalongo in Agago District. It gives views over the surrounding landscape and is used for hiking and rock climbing.
+- Activity tags: Outdoor Adventures
+- Email: info@loremitours.com
+- GPS: 3.047182, 33.364620
+- Led by: Community
+
+## Kara-Tunga Eco camps
+- ID: 158
+- District: Moroto
+- Supplier type: Accommodation
+- Contact number: +256 776 833 901
+- Region: Northern
+- Listing type: Business
+- Website: https://www.kara-tunga.com/eco-camps/
+- Experiences offered: Hiking, Camping, Cultural tours, Bird watching
+- Description: Kara-Tunga Eco Camps offer accommodation in the Karamoja area. Guests hike, camp, take cultural tours and watch birds. Kara-Tunga says the camps benefit local communities and support biodiversity conservation.
+- Activity tags: Art and Handicrafts, Cultural Heritage & Traditions, Food and Culinary
+- Email: info@kara-tunga.com
+- GPS: 2.500288, 34.681248
+- Led by: Private
+
+## Kara-Tunga Safari Camps
+- ID: 157
+- District: Moroto
+- Supplier type: Accommodation
+- Contact number: +256 776 833 901
+- Region: Northern
+- Listing type: Business
+- Website: https://www.kara-tunga.com/safari-camp/
+- Experiences offered: Game drives, Bird watching, Cultural experiences, Nature walks, Camping
+- Description: Kara-Tunga Safari Camps offer accommodation in the Karamoja area of north-eastern Uganda. Guests go on game drives, bird watching, cultural experiences, nature walks and camping.
+
+Kara-Tunga says it works with local communities on cultural heritage projects and supports biodiversity conservation.
+- Activity tags: Art and Handicrafts, Cultural Heritage & Traditions, Food and Culinary, Nature and Wildlife
+- Email: info@kara-tunga.com
+- GPS: 2.527709, 34.665600
+- Led by: Private
+
+## Karoro falls
+- ID: 222
+- District: Kasese
+- Supplier type: Activities
+- Contact number: +256 706 219 097
+- Region: Western
+- Listing type: Place
+- Experiences offered: Waterfall trail
+- Description: Karoro Falls in Kasese District has a trail to and around the waterfalls.
+- Activity tags: Nature and Wildlife
+- GPS: 0.119880, 29.904220
+- Led by: Government
+
+## Kashoya Kitomi Forest Reserve
+- ID: 175
+- Supplier type: Activities
+- Contact number: +256 414 355 000
+- Listing type: Place
+- Website: https://www.ugandaparks.com/ecotourism-sites/
+- Experiences offered: Birding, Boat rides, Primate tracking, Sightseeing, Community walks
+- Description: Kashoya-Kitomi Forest Reserve covers 433 square kilometres. Its wildlife includes chimpanzees, birds and monkeys such as vervet, blue, red-tailed and black-and-white colobus monkeys.
+
+Visitors go birding, take boat rides, track primates, sightsee and take community walks.
+- Activity tags: Nature and Wildlife
+- Protected area: Kashoya-Kitomi Forest Reserve
+- Email: reservations@wildlife.go.ug
+- Led by: Government
+
+## Kasubi Tombs
+- ID: 190
+- District: Kampala
+- Supplier type: Activities
+- Region: Central
+- Listing type: Place
+- Nearest town or village: Kampala
+- Website: https://whc.unesco.org/fr/list/1022/
+- Experiences offered: Site visit, Cultural tours
+- Description: The Kasubi Tombs in Kampala are the burial grounds of four kabakas and other members of the Baganda royal family. The site is an important spiritual and political place for the Ganda people and an example of traditional architecture.
+
+Visitors take site visits and cultural tours.
+- Activity tags: Cultural Heritage & Traditions
+- Email: albertkasozi8@gmail.com
+- GPS: 0.329160, 32.553299
+- Led by: Community
+
+## Kibale Forest National Park
+- ID: 178
+- District: Kabarole
+- Supplier type: Activities
+- Contact number: +256 414 355 000
+- Region: Western
+- Listing type: Place
+- Website: https://ugandawildlife.org/
+- Experiences offered: Chimpanzee trekking, Birding, Guided forest nature walk, Bigodi Wetland Sanctuary visit
+- Description: Kibale National Park is home to 13 primate species, including chimpanzees. Forest covers most of the northern and central parts of the park on the Fort Portal plateau, and its highest point, in the north, is 1,590 m above sea level.
+
+Visitors track chimpanzees, go birding and take guided forest walks. A visit to Bigodi Wetland Sanctuary is also listed.
+- Activity tags: Nature and Wildlife
+- Protected area: Kibale National Park
+- Email: reservations@wildlife.go.ug
+- GPS: 0.436621, 30.366760
+- Led by: Government
+
+## Kidepo Valley National Park
+- ID: 179
+- District: Karenga
+- Supplier type: Activities
+- Contact number: +256 414 355 000
+- Region: Northern
+- Listing type: Place
+- Website: https://ugandawildlife.org/
+- Experiences offered: Game drives, Mountain hiking, Guided nature walks, Bird watching, Karamoja village walks
+- Description: Kidepo Valley National Park is a remote park in north-eastern Uganda that receives fewer visitors than other national parks, according to the record. Visitors go on game drives, mountain hikes, guided nature walks, bird watching and village walks in Karamoja.
+- Activity tags: Cultural Heritage & Traditions, Nature and Wildlife
+- Protected area: Kidepo Valley National Park
+- Email: reservations@wildlife.go.ug
+- GPS: 3.830491, 33.751717
+- Led by: Government
+
+## Kikonko Lodge
+- ID: 165
+- Travelife / Fairtrade: Engaged
+- District: Hoima
+- Supplier type: Accommodation
+- Contact number: +256 787 999 447
+- Region: Western
+- Listing type: Business
+- Website: https://www.kikonko.com/
+- Experiences offered: Fishing, Boat tours, Bird watching, Hiking, Camping, Tea tours
+- Description: Kikonko Lodge offers accommodation in Hoima District. Guests fish, take boat tours, watch birds, hike, camp and join tea tours.
+
+The lodge says young people in the Kikonko community benefit from activities such as a community walk, where each visitor's fee goes to community group leaders.
+- Activity tags: Outdoor Adventures
+- Email: info@kikonko.com
+- GPS: 1.562132, 31.118877
+- Led by: Private
+
+## Kisoro Volcanic Organic Coffee
+- ID: 228
+- Supplier type: Activities
+- Contact number: +256 770 620 201
+- Listing type: Business
+- Programme: Ukarimu
+- Experiences offered: Coffee experience tours
+- Description: Kisoro Volcanic Organic Coffee is a youth-led group offering coffee experience tours.
+- Activity tags: Food and Culinary
+- Email: kisorovolcaniccoffee@gmail.com
+- Led by: Youth
+
+## Kiwa Heritage
+- ID: 144
+- District: Kasese
+- Supplier type: Activities
+- Contact number: +256 787 885 452
+- Region: Western
+- Listing type: Place
+- Website: https://kasesemc.go.ug/about-us
+- Experiences offered: Cultural museum visit, Local brew tasting, Swimming in hot springs
+- Description: Kiwa Heritage in Kasese District aims to interest the community in environmental conservation and to preserve the cultural norms and values of the Bakonzo people. Visitors can tour a cultural museum, try local brew and swim in hot springs.
+- Activity tags: Cultural Heritage & Traditions, Outdoor Adventures
+- Email: info@kasesemc.go.ug
+- GPS: 0.189191, 30.058132
+
+## La Fang Eco Resort, Dolwe
+- ID: 210
+- District: Namayingo
+- Supplier type: Accommodation, Activities
+- Contact number: +256 709 340 905
+- Region: Eastern
+- Listing type: Business
+- Nearest town or village: Dolwe Island
+- Website: https://lafangecoresort.com/
+- Experiences offered: Boat cruise, Rock hiking, Nature walk, Farm tour
+- Description: La Fang Eco Resort is on Dolwe Island, on the eastern side of Lake Victoria in Namayingo District. Guests take boat cruises, rock hikes, nature walks and farm tours.
+
+The resort says it aims to promote environmental conservation and support local communities.
+- Activity tags: Farm & Agricultural Tourism, Outdoor Adventures
+- Email: reservations@lafangecoresort.com
+- GPS: -0.108696, 33.698188
+- Led by: Private
+
+## Lake Mburo National Park
+- ID: 180
+- District: Kiruhura
+- Supplier type: Activities
+- Contact number: +256 414 355 000
+- Region: Western
+- Listing type: Place
+- Website: https://ugandawildlife.org/
+- Experiences offered: Game drives, Boat rides, Nature walks, Birding, Sport fishing, Horseback riding, Cultural encounters
+- Description: Lake Mburo National Park in Kiruhura District has an extensive wetland, and the record says it is the only national park containing an entire lake. Visitors go on game drives, boat rides, nature walks, birding, sport fishing, horseback riding and cultural encounters.
+- Activity tags: Cultural Heritage & Traditions, Nature and Wildlife
+- Protected area: Lake Mburo National Park
+- Email: reservations@wildlife.go.ug
+- GPS: -0.578836, 30.976764
+- Led by: Government
+
+## Lemala Wildwaters lodge
+- ID: 197
+- District: Jinja
+- Supplier type: Accommodation
+- Contact number: +256 772 237 400
+- Region: Eastern
+- Listing type: Business
+- Website: https://www.lemalacamps.com/community-conservation/
+- Description: Lemala Wildwaters Lodge is in Jinja District. The lodge says it supports its local environment and communities through employment, local food sourcing and reducing its carbon footprint, and runs philanthropic projects.
+- Email: info@wildwaterslodge.com
+- GPS: 0.596817, 33.053215
+- Led by: Private
+
+## Loregae Tours and trails
+- ID: 230
+- District: Nakapiripirit
+- Supplier type: Activities
+- Contact number: +256 781 862 741
+- Region: Northern
+- Listing type: Business
+- Programme: Ukarimu
+- Experiences offered: Kraal visits, Mount Kadam hiking, Karamoja cultural experience
+- Description: Loregae Tours and Trails is a youth-led group in Nakapiripirit District offering kraal visits, hikes on Mount Kadam and a Karamoja cultural experience.
+- Activity tags: Cultural Heritage & Traditions, Outdoor Adventures
+- GPS: 1.719200, 34.398400
+- Led by: Youth
+
+## Lotuturu Hill
+- ID: 141
+- District: Lamwo
+- Supplier type: Activities
+- Contact number: +256 783 269 681
+- Region: Northern
+- Listing type: Place
+- Website: https://loremitours.com/
+- Experiences offered: Hiking, Guided tours, Cultural experiences, Wildlife observation
+- Description: Lotuturu Hill is a historical site in Lamwo District, northern Uganda. Visitors hike, take guided tours and cultural experiences, and watch wildlife.
+
+A local story holds that the British royal family was hidden here during the war.
+- Activity tags: Outdoor Adventures
+- Email: info@loremitours.com
+- GPS: 3.733153, 32.891331
+- Led by: Community
+
+## Mabamba lodge
+- ID: 149
+- District: Wakiso
+- Supplier type: Accommodation, Activities
+- Contact number: +256 753 628 839
+- Region: Central
+- Listing type: Business
+- Website: https://mabambalodge.com/home
+- Experiences offered: Shoebill watching, Bird watching, Forest walk, Community engagement, Cycling
+- Description: Mabamba Lodge is at Mabamba Bay, a Ramsar site and Important Bird Area in Wakiso District. The area is home to the shoebill, papyrus gonolek, blue swallow and sitatunga.
+
+Guests watch shoebills and other birds, take forest walks, cycle and visit the community. The record lists preservation and local employment as its impact.
+- Activity tags: Nature and Wildlife
+- Protected area: Mabamba Bay Wetland
+- Email: info@mabambalodge.com
+- GPS: 0.091656, 32.373665
+- Led by: Private
+
+## Mabira Forest
+- ID: 176
+- District: Buikwe
+- Supplier type: Activities
+- Contact number: +256 414 355 000
+- Region: Central
+- Listing type: Place
+- Website: https://www.ugandaparks.com/ecotourism-sites/mabira-forest/
+- Experiences offered: Birding, Nature walks, Camping
+- Description: Mabira Forest Reserve lies 56 km from Kampala along the Kampala–Jinja highway, across Buikwe, Kayunga and Mukono districts. It covers 306 square kilometres and the record says it is the largest natural forest reserve in central Uganda.
+
+Visitors go birding, take nature walks and camp.
+- Activity tags: Nature and Wildlife
+- Protected area: Mabira Forest Reserve
+- Email: reservations@wildlife.go.ug
+- GPS: 0.475951, 33.059910
+- Led by: Government
+
+## Mbunga Campsite
+- ID: 168
+- District: Kasese
+- Supplier type: Accommodation
+- Region: Western
+- Listing type: Business
+- Experiences offered: Hiking, Birdwatching, Camping, Nature walks
+- Description: Mbunga Campsite is in Kasese District. Guests hike, watch birds, camp and take nature walks.
+- Activity tags: Cultural Heritage & Traditions, Outdoor Adventures, Performing Arts
+- GPS: 0.212753, 30.017995
+- Led by: Private
+
+## Mgahinga Gorilla National Park
+- ID: 181
+- District: Kisoro
+- Supplier type: Activities
+- Contact number: +256 414 355 000
+- Region: Western
+- Listing type: Place
+- Website: https://ugandawildlife.org/
+- Experiences offered: Mountain hiking, Gorilla trekking, Cave exploration, Bird watching, Golden monkey trekking, Nature walks, Batwa forest tour
+- Description: Mgahinga Gorilla National Park in Kisoro District covers 33.7 km², making it Uganda's smallest national park. It lies between 2,227 m and 4,127 m and includes three extinct volcanoes of the Virunga range, on the border region with Rwanda and Congo.
+
+It protects mountain gorillas, with one habituated transboundary group, and golden monkeys. The record lists over 76 mammal species and over 180 bird species.
+
+Visitors go gorilla and golden monkey trekking, mountain hiking, cave exploration, bird watching and nature walks, and can tour the forest with a Batwa guide.
+- Activity tags: Nature and Wildlife
+- Protected area: Mgahinga Gorilla National Park
+- Email: reservations@wildlife.go.ug
+- GPS: -1.363820, 29.638294
+- Led by: Government
+
+## Mondi Lodge Kisoro
+- ID: 170
+- District: Kisoro
+- Supplier type: Accommodation
+- Contact number: +256 776 146 888
+- Region: Western
+- Listing type: Business
+- Nearest town or village: Kisoro
+- Website: https://mondilodgekisoro.com/
+- Experiences offered: Hiking, Bird watching, Cultural tours, Nature walks, Community visits
+- Description: Mondi Lodge is in the mountains around Kisoro, with a restaurant, bar and rooms with mountain views.
+
+Guests hike, watch birds, take cultural tours and nature walks, and join guided trips to nearby lakes and community visits. The lodge says it supports local education and community initiatives.
+- Activity tags: Outdoor Adventures
+- GPS: -1.282421, 29.681471
+- Led by: Private
+
+## Morungole Eco-Camp
+- ID: 212
+- District: Moroto
+- Supplier type: Accommodation
+- Contact number: +256 776 933 901
+- Region: Northern
+- Listing type: Business
+- Website: https://www.kara-tunga.com/eco-camps/
+- Description: Morungole Eco-Camp is at the foot of Mount Morungole, in woodland at a historical resting place of the hunter-gatherer community, with direct access to the summit along ancestral trails.
+
+It has six tents that are not self-contained, each with two long single beds.
+- Email: info@kara-tunga.com
+- GPS: 2.500245, 34.681506
+- Led by: Community
+
+## Mount Elgon National Park
+- ID: 182
+- District: Kween
+- Supplier type: Activities
+- Contact number: +256 414 355 000
+- Region: Eastern
+- Listing type: Place
+- Website: https://ugandawildlife.org/
+- Experiences offered: Bird watching, Hiking to Sipi Falls, Trekking on Mount Elgon, Camping
+- Description: Mount Elgon National Park takes its name from Mount Elgon, on the border with Kenya. The record notes over 300 bird species, montane forest, bamboo belts and plants such as giant lobelia and groundsels, with black-and-white colobus and blue monkeys among the wildlife.
+
+Visitors watch birds, hike to Sipi Falls, trek on Mount Elgon and camp.
+- Activity tags: Nature and Wildlife
+- Protected area: Mount Elgon National Park
+- Email: reservations@wildlife.go.ug
+- GPS: 1.105966, 34.508619
+- Led by: Government
+
+## Mount Kadam Hiking & Trekking
+- ID: 216
+- District: Moroto
+- Supplier type: Activities
+- Contact number: +256 776 833 901
+- Region: Northern
+- Listing type: Business
+- Website: https://www.kara-tunga.com/tours/mount-kadam-hiking-trekking/
+- Experiences offered: Mount Kadam hiking, Camping
+- Description: A guided hiking and trekking expedition on Mount Kadam, an ancient volcanic mass in southern Karamoja, run by Kara-Tunga. Its vegetation includes dry montane forest and semi-evergreen thicket, with many edible plants and medicinal herbs.
+
+Five ethnic groups live around the mountain, and the Tepeth live on it alongside the Kadama people. Treks include cultural encounters and camping with views over the Karamoja plains.
+- Activity tags: Nature and Wildlife
+- Email: info@kara-tunga.com
+- GPS: 2.527291, 34.665600
+- Led by: Community
+
+## Mount Moroto Hiking & Trekking
+- ID: 215
+- District: Moroto
+- Supplier type: Activities
+- Contact number: +256 776 833 901
+- Region: Northern
+- Listing type: Business
+- Website: https://www.kara-tunga.com/tours-category/hiking-trekking/
+- Experiences offered: Mount Moroto hiking, Wild camping
+- Description: A guided hiking and trekking tour on Mount Moroto (3,083 m), a solitary extinct volcano in Karamoja, run by Kara-Tunga. Vegetation ranges from dry thorn savanna at the base to montane woodland and rocky outcrops higher up, and many plants have medicinal and food value for the community.
+
+The mountain is the ancestral home of the Tepeth people, with Karamojong pastoralists living around its base. The trek includes time with the Tepeth, views over Uganda and Kenya and wild camping.
+- Activity tags: Nature and Wildlife
+- Email: info@kara-tunga.com
+- GPS: 2.527291, 34.665600
+- Led by: Community
+
+## Mount Morungole Hiking & Trekking
+- ID: 217
+- District: Moroto
+- Supplier type: Accommodation, Activities
+- Region: Northern
+- Listing type: Business
+- Website: https://www.kara-tunga.com/tours/mount-morungole/
+- Experiences offered: Mount Morungole hiking and trekking, Meeting the Ik community
+- Description: A hiking trip on Mount Morungole (2,685 m) in north-eastern Uganda, run by Kara-Tunga, which can be combined with a safari in Kidepo Valley National Park. The mountain is home to the Ik, described as Uganda's most geographically isolated community, and the trip includes time with them.
+
+Kara-Tunga says its discussions with residents have not confirmed online reports that the Kalunya summit is closed to visitors.
+- Activity tags: Cultural Heritage & Traditions, Nature and Wildlife
+- Email: info@kara-tunga.com
+- GPS: 2.527291, 34.665600
+- Led by: Community
+
+## Mount Napak Hiking & Trekking
+- ID: 218
+- District: Moroto
+- Supplier type: Activities
+- Contact number: +256 776 833 901
+- Region: Northern
+- Listing type: Business
+- Website: https://www.kara-tunga.com/tours/mount-napak-hiking-trekking/
+- Experiences offered: Mount Napak half-day hike, Mount Napak full-day hike, Village visits
+- Description: A guided hike on Mount Napak (2,520 m), Karamoja's third-highest mountain, run by Kara-Tunga. The record describes it as the toughest climb in north-eastern Uganda because of its steepness and vegetation. It borders the Pian Upe Wildlife Reserve and has views over the Karamoja plains.
+
+Local guides introduce hikers to villages of the Bokora clan of the Karamojong on the foothills. Half-day and full-day hikes are offered.
+- Activity tags: Nature and Wildlife
+- Protected area: Pian Upe Wildlife Reserve
+- Email: info@kara-tunga.com
+- GPS: 2.527291, 34.665600
+- Led by: Community
+
+## Mpanga Nature Center
+- ID: 198
+- District: Mpigi
+- Supplier type: Activities
+- Region: Central
+- Listing type: Business
+- Nearest town or village: Mpigi
+- Website: https://mpanganature.org/
+- Description: Mpanga Nature Center is a conservation and tourism education centre in Mpigi, set up in 2020. It promotes conservation of Mpanga Forest and nature tourism around it.
+- Activity tags: Outdoor Adventures
+- Protected area: Mpanga Forest Reserve
+- Email: doreen@mpanganature.org
+- GPS: 0.216133, 32.293156
+- Led by: Private
+
+## Murchison Bush Camp
+- ID: 208
+- Supplier type: Accommodation
+- Contact number: +256 772 721 479
+- Listing type: Business
+- Description: Murchison Bush Camp is a private glamping camp for small groups, families and privately guided groups, including those with special interests such as bird watching.
+- Activity tags: Nature and Wildlife, Outdoor Adventures
+- Email: safari@wildfrontiers-uganda.com
+- Led by: Private
+
+## Murchison Falls National Park
+- ID: 183
+- District: Kiryandongo
+- Supplier type: Activities
+- Contact number: +256 414 355 000
+- Region: Western
+- Listing type: Place
+- Website: https://ugandawildlife.org/
+- Experiences offered: Game drives, Bird watching, Hiking and nature walks, Boat cruises, Sport fishing, Cultural encounters
+- Description: Murchison Falls National Park offers game drives, bird watching, hiking and nature walks, boat cruises, sport fishing and cultural encounters.
+- Activity tags: Cultural Heritage & Traditions, Nature and Wildlife
+- Protected area: Murchison Falls National Park
+- Email: reservations@wildlife.go.ug
+- GPS: 2.233604, 31.778574
+- Led by: Government
+
+## Namoni Lodge
+- ID: 214
+- District: Moroto
+- Supplier type: Accommodation
+- Contact number: +256 776 833 901
+- Region: Northern
+- Listing type: Business
+- Website: https://www.kara-tunga.com/eco-camps/
+- Description: Namoni Lodge is on the boundary of a national park, with views over the surrounding area. The camp aims to create opportunities for the community and for travellers to experience more than wildlife.
+- Email: info@kara-tunga.com
+- GPS: 2.500245, 34.681506
+- Led by: Community
+
+## Ndere Cultural Center
+- ID: 152
+- District: Kampala
+- Supplier type: Activities
+- Contact number: +256 772 700 105
+- Region: Central
+- Listing type: Business
+- Nearest town or village: Kampala
+- Website: https://ndere.com/
+- Experiences offered: Cultural dance, Local cuisine
+- Description: Ndere Cultural Center in Kampala is home to the Ndere Troupe. The troupe has researched and documented Ugandan dance and music, and says it has a repertoire of over 40 dances, many songs and an orchestra of traditional instruments.
+
+Visitors watch cultural dance and eat local food. The centre also has accommodation and sells souvenirs.
+- Activity tags: Cultural Heritage & Traditions, Performing Arts
+- Email: info@ndere.com
+- GPS: 0.363477, 32.605774
+- Led by: Private
+
+## Ngamba Island Chimpanzee sanctuary
+- ID: 154
+- District: Mukono
+- Supplier type: Activities
+- Contact number: +256 758 221 880
+- Region: Central
+- Listing type: Place
+- Website: https://ngambaisland.org/our-mission-and-vision/
+- Experiences offered: Chimpanzee feeding, Guided tours, Educational programmes, Volunteering
+- Description: Ngamba Island Chimpanzee Sanctuary cares for orphaned eastern chimpanzees rescued by the Uganda Wildlife Authority. Many were rescued from poachers and are unlikely to survive in the wild.
+
+Visitors watch feeding, take guided tours and join education programmes, and volunteering is offered. The sanctuary says it has no single-use plastic, limits visitor numbers and that money goes directly to the chimpanzees.
+- Activity tags: Conservation, Nature and Wildlife
+- Email: info@ngambaisland.org
+- GPS: -0.100716, 32.653004
+- Led by: Government
+
+## Nkore cultural heritage
+- ID: 229
+- Supplier type: Activities
+- Contact number: +256 779 920 765
+- Listing type: Business
+- Programme: Ukarimu
+- Experiences offered: Ankole cultural experience
+- Description: Nkore Cultural Heritage is a women-led group offering an Ankole cultural experience.
+- Activity tags: Cultural Heritage & Traditions
+- Led by: Women
+
+## Nkuringo Safaris
+- ID: 150
+- District: Wakiso
+- Supplier type: Activities
+- Contact number: +256 702 805 580
+- Region: Central
+- Listing type: Business
+- Website: https://www.nkuringosafaris.com/
+- Experiences offered: Walking safaris
+- Description: Nkuringo Safaris offers walking safaris in rainforest areas where gorillas and chimpanzees live, combined with meeting local people and cultures.
+- Activity tags: Nature and Wildlife, Outdoor Adventures
+- Email: info@nkuringosafaris.com
+- GPS: 0.111699, 32.515997
+- Led by: Private
+
+## Nyangea Napore Cultural Experience
+- ID: 194
+- District: Karenga
+- Supplier type: Activities
+- Contact number: +256 772 091 488
+- Region: Northern
+- Listing type: Business
+- Website: https://kkakkawildlife.org/
+- Experiences offered: Collecting food from the granary, Grinding grains, Pounding food with a pestle, Community games, Cultural performance
+- Description: A village experience with the Nyangea-Napore people in the Kidepo Valley National Park area. Visitors watch a cultural performance and take part in daily tasks: collecting food from the granary, grinding grain, pounding food with a pestle and playing community games.
+- Activity tags: Cultural Heritage & Traditions
+- Protected area: Kidepo Valley National Park
+- Email: info@kkakkawildlife.org
+- GPS: 3.567594, 33.694287
+- Led by: Community
+
+## Oret hill
+- ID: 148
+- District: Gulu
+- Supplier type: Activities
+- Contact number: +256 783 269 681
+- Region: Northern
+- Listing type: Place
+- Website: https://loremitours.com/
+- Experiences offered: Hiking, Historical tours
+- Description: Oret Hill in Gulu District was a military lookout point during the Lord's Resistance Army insurgency. Visitors hike, take in the views and join historical tours.
+- Activity tags: Outdoor Adventures
+- Email: info@loremitours.com
+- GPS: 2.773470, 32.311290
+- Led by: Community
+
+## Orum Ki Tamo Group (Acholi Dance Group)
+- ID: 131
+- Supplier type: Activities
+- Contact number: +256 783 468 031
+- Listing type: Business
+- Programme: B4R
+- Experiences offered: Acholi dance performances
+- Description: Orum Ki Tamo is an Acholi dance group in communities around Murchison Falls National Park. The group performs Acholi dances, each with its own meaning, and passes the dances and tales on to young performers.
+- Activity tags: Cultural Heritage & Traditions
+- Protected area: Murchison Falls National Park
+- Led by: Community
+
+## PACER
+- ID: 201
+- Supplier type: Activities
+- Contact number: +256 771 333 532
+- Listing type: Business
+- Experiences offered: Live craft-making demonstrations
+- Description: PACER is an association of woodworkers and blacksmiths in Gulu that makes sculptures, tools, household objects and toys. Visitors watch live craft-making demonstrations, and the association also trains students.
+- Activity tags: Art and Handicrafts
+- Email: pacer.bac@gmail.com
+- Led by: Private
+
+## Paper craft Africa
+- ID: 202
+- District: Wakiso
+- Supplier type: Activities
+- Contact number: +256 772 986 957
+- Region: Central
+- Listing type: Business
+- Nearest town or village: Entebbe
+- Website: https://www.papercraftafrica.com/
+- Description: Paper Craft Africa was set up in 2006 to give a group of socially disadvantaged Ugandans, mainly women, an income from making and selling recycled products.
+
+It turns handmade paper into stationery, journals, calendars, gifts and wedding invitations, and blows waste glass into drinking glasses, jugs, vases and ornaments.
+- Activity tags: Art and Handicrafts
+- Email: papers@papercraftafrica.com
+- GPS: 0.164522, 32.541999
+- Led by: Private
+
+## Queen Elizabeth National Park
+- ID: 184
+- District: Rubirizi
+- Supplier type: Activities
+- Contact number: +256 414 355 000
+- Region: Western
+- Listing type: Place
+- Website: https://ugandawildlife.org/
+- Experiences offered: Game drive, Boat cruise, Birding, Nature walks, Chimpanzee trekking, Explosion crater visits
+- Description: Queen Elizabeth National Park covers 1,978 km² and is Uganda's second-largest park. It is mostly savanna grassland, with forests and wetlands.
+
+Visitors go on game drives, boat cruises, birding, nature walks and chimpanzee trekking, and visit the volcanic explosion craters.
+- Activity tags: Nature and Wildlife
+- Protected area: Queen Elizabeth National Park
+- Email: reservations@wildlife.go.ug
+- GPS: -0.281331, 29.964060
+- Led by: Government
+
+## Red Dirt
+- ID: 136
+- District: Kampala
+- Supplier type: Activities
+- Contact number: +256 785 253 046
+- Region: Central
+- Listing type: Business
+- Website: https://reddirtuganda.com/
+- Experiences offered: Cultural experiences with local communities, Nature-based experiences, Wildlife safaris, Cycling tours
+- Description: Red Dirt is a tour operator offering cycling tours, wildlife safaris, nature-based trips and cultural experiences with local communities. It also develops cycling routes.
+
+Red Dirt says zero waste and sustainability are part of all its activities, and that its tours benefit the guides it works with and the communities it passes through.
+- Activity tags: Nature and Wildlife, Outdoor Adventures
+- Email: robin@reddirtuganda.com
+- GPS: 0.274494, 32.626678
+- Led by: Private
+
+## Ride 4 a Woman
+- ID: 130
+- District: Kanungu
+- Supplier type: Activities
+- Contact number: +256 772 607 317
+- Region: Western
+- Listing type: Business
+- Website: https://www.ride4awoman.org/
+- Experiences offered: Cooking traditional Batwa and Bakiga dishes, Learning to weave, Tailoring, Traditional music and dance
+- Description: Ride 4 a Woman is an organisation in Kanungu District that supports local women facing HIV, domestic violence and poverty.
+
+Visitors can cook traditional Batwa and Bakiga dishes, learn to weave and sew, and watch traditional music and dance. The organisation also offers accommodation, which it says promotes eco-friendly practices.
+- Activity tags: Art and Handicrafts, Cultural Heritage & Traditions
+- Email: ride4awoman@gmail.com
+- GPS: -0.967795, 29.615178
+- Led by: Community, Women
+
+## Rubona Baskets
+- ID: 203
+- District: Bunyangabu
+- Supplier type: Activities
+- Contact number: +256 782 562 640
+- Region: Western
+- Listing type: Business
+- Nearest town or village: Rubona
+- Experiences offered: Natural dye demonstration, Weaving
+- Description: Rubona Baskets is a women-led group in Rubona that makes patterned baskets from local materials and natural dyes. Visitors watch natural dye demonstrations and weaving.
+- Activity tags: Art and Handicrafts
+- Email: rubonabaskets3@gmail.com
+- GPS: 0.561730, 30.180229
+- Led by: Women
+
+## Ruboni Tourism Village
+- ID: 161
+- District: Kasese
+- Supplier type: Accommodation
+- Contact number: +256 752 503 445
+- Region: Western
+- Listing type: Business
+- Nearest town or village: Ruboni
+- Website: https://rubonicamp.com/
+- Experiences offered: Hiking, Bird watching, Cultural tours, Nature walks, Community engagement
+- Description: Ruboni Tourism Village is run by the local Bakonzo community in Kasese District. The record says all staff are local residents and profits fund regional development and conservation.
+
+Visitors hike, watch birds, take cultural tours and nature walks, and meet the community.
+- Activity tags: Cultural Heritage & Traditions, Farm & Agricultural Tourism
+- Email: visitruboni@gmail.com
+- GPS: 0.350625, 30.029134
+- Led by: Community
+
+## Rural Tourism Uganda
+- ID: 224
+- District: Rubanda
+- Supplier type: Activities
+- Contact number: +256 772 850 479
+- Region: Western
+- Listing type: Business
+- Programme: PUM
+- Description: Rural Tourism Uganda offers visitors experiences with rural communities and natural landscapes in Rubanda District.
+- Activity tags: Cultural Heritage & Traditions, Farm & Agricultural Tourism
+- Email: cuthbert.tukundane@pum.nl
+- Led by: Private
+
+## Rurama Beekeepers Honey
+- ID: 227
+- Supplier type: Activities
+- Contact number: +256 773 267 564
+- Listing type: Business
+- Programme: Ukarimu
+- Experiences offered: Honey harvesting experience
+- Description: Rurama Beekeepers offers a honey harvesting experience.
+- Activity tags: Food and Culinary
+- Led by: Youth
+
+## Rurambera Bahima Arts and Crafts Experience
+- ID: 124
+- District: Kiruhura
+- Supplier type: Activities
+- Contact number: +256 753 321 009
+- Region: Western
+- Listing type: Business
+- Website: https://rccuganda.org/
+- Experiences offered: Traditional storytelling, Beadwork, Milk pot cover making, Walking stick making, Traditional jewellery making
+- Description: A crafts experience with Bahima women in the Lake Mburo National Park area. Visitors learn to make sisal pot covers, beaded jewellery and cowhide decorations, and embellish scarves and knot threads.
+
+The women share stories of daily life while they work. The record says the experience supports local women artisans.
+- Activity tags: Cultural Heritage & Traditions
+- Protected area: Lake Mburo National Park
+- Email: wyclifenamanya@gmail.com
+- GPS: -0.594181, 30.974847
+- Led by: Community
+
+## Rurambera Community Cycling Tours
+- ID: 125
+- District: Kiruhura
+- Supplier type: Activities
+- Contact number: +256 753 321 009
+- Region: Western
+- Listing type: Business
+- Website: https://rccuganda.org/
+- Experiences offered: Cycling tours, Cultural experiences, Community engagement
+- Description: A guided cycling tour through Bahima villages and trails in the Lake Mburo National Park area. Riders see grazing cattle and birds, and hear from local hosts about cattle-herding traditions and how wildlife, people and cattle live side by side.
+- Activity tags: Outdoor Adventures
+- Protected area: Lake Mburo National Park
+- Email: wyclifenamanya@gmail.com
+- GPS: -0.594181, 30.974847
+- Led by: Community
+
+## Rurambera Community Nature Walk
+- ID: 123
+- District: Kiruhura
+- Supplier type: Activities
+- Contact number: +256 753 321 009
+- Region: Western
+- Listing type: Business
+- Website: https://rccuganda.org/
+- Experiences offered: Domestic and wildlife interaction, Interactions with cattle keepers, Nature interpretation, Storytelling
+- Description: A guided walk through Bahima villages and trails in the Lake Mburo National Park area. Visitors see grazing cattle and birds; the record notes 350 bird species in this landscape.
+
+Local hosts share cattle-herding traditions and stories about how wildlife, people and cattle live side by side.
+- Activity tags: Nature and Wildlife
+- Protected area: Lake Mburo National Park
+- Email: wyclifenamanya@gmail.com
+- GPS: -0.594181, 30.974847
+- Led by: Community
+
+## Rurambera Cows and Milk (Ankole Rich Cultural Heritage)
+- ID: 195
+- District: Kiruhura
+- Supplier type: Activities
+- Contact number: +256 753 321 009
+- Region: Western
+- Listing type: Business
+- Website: https://rccuganda.org/
+- Experiences offered: Storytelling on Bahima livelihoods, Grazing cattle, Milking cattle
+- Description: An Ankole cultural experience at a homestead with long-horned Ankole cattle, in the Lake Mburo National Park area. Visitors watch cattle gather in the kraal while herdsmen share stories, and they graze and milk cattle.
+
+In the women's cultural hut, visitors see the tools used to make yoghurt and smoked milk products.
+- Activity tags: Cultural Heritage & Traditions
+- Protected area: Lake Mburo National Park
+- GPS: -0.594181, 30.974847
+- Led by: Community
+
+## Rwenzori Mountains National Park
+- ID: 186
+- District: Kasese
+- Supplier type: Activities
+- Contact number: +256 414 355 000
+- Region: Western
+- Listing type: Place
+- Website: https://ugandawildlife.org/
+- Experiences offered: Mountain climbing, Trekking, Nature walks, Birding, Cultural encounters
+- Description: Rwenzori Mountains National Park has glaciers, waterfalls and lakes in an alpine area, with habitats for endangered species and unusual plants such as giant heather.
+
+Visitors climb and trek in the mountains, take nature walks, go birding and join cultural encounters.
+- Activity tags: Cultural Heritage & Traditions, Nature and Wildlife
+- Protected area: Rwenzori Mountains National Park
+- Email: reservations@wildlife.go.ug
+- GPS: 0.321163, 29.910633
+- Led by: Government
+
+## Sana Gorilla Rafting
+- ID: 134
+- District: Rukungiri
+- Supplier type: Activities
+- Contact number: +256 754 944 695
+- Region: Western
+- Listing type: Business
+- Website: https://sanagorillarafting.com/
+- Experiences offered: Rafting, Overnight rafting, Floating, Waterfall hikes, Mountain biking, Hiking, Kayaking
+- Description: Sana Gorilla Rafting runs rafting and outdoor trips on rivers in western Uganda, from Rukungiri District. Trips include day and overnight rafting, river floating and waterfall hikes, and itineraries that combine mountain biking, hiking, rafting and kayaking.
+
+The record says Sadat teaches local young people to swim.
+- Activity tags: Farm & Agricultural Tourism, Outdoor Adventures
+- Email: Info@sanagorillarafting.com
+- GPS: -0.798328, 29.923009
+- Led by: Community, Private
+
+## Semuliki National Park
+- ID: 185
+- District: Bundibugyo
+- Supplier type: Activities
+- Contact number: +256 414 355 000
+- Region: Western
+- Listing type: Place
+- Website: https://ugandawildlife.org/
+- Experiences offered: Game drives, Chimpanzee trekking, Bird watching, Nature walks, Hot springs visit
+- Description: Semuliki National Park in Bundibugyo District is home to over 53 mammal species, including chimpanzees and other primates, and over 441 bird species, many of them forest birds. The record notes it is not often included in safari itineraries.
+
+Visitors go on game drives, chimpanzee trekking, bird watching and nature walks, and visit hot springs.
+- Activity tags: Cultural Heritage & Traditions, Nature and Wildlife
+- Protected area: Semuliki National Park
+- Email: reservations@wildlife.go.ug
+- GPS: 0.833609, 30.043434
+- Led by: Community
+
+## Ssebwe water falls
+- ID: 221
+- Supplier type: Activities
+- Contact number: +256 752 503 445
+- Listing type: Place
+- Experiences offered: Trekking to the falls
+- Description: Ssebwe Waterfalls is reached by a trek through village hills and park forest.
+- Activity tags: Nature and Wildlife
+- Email: visitruboni@gmail.com
+- Led by: Government
+
+## Sunbird Hill
+- ID: 164
+- District: Kamwenge
+- Supplier type: Accommodation
+- Contact number: +256 705 177 784
+- Region: Western
+- Listing type: Business
+- Website: https://www.sunbirdhill.com/
+- Experiences offered: Hiking, Bird watching, Nature walks, Cultural tours, Photography
+- Description: Sunbird Hill offers accommodation and guided nature activities in Kamwenge District. Guests hike, watch birds, take nature walks, cultural tours and photography trips.
+
+Sunbird Hill says it leads the Bird Population Monitoring Programme in western Uganda and has won Big Birding two years running. Visitors can see village conservation at Butterfly Village, including a healing garden, butterfly house, village bird clubs, and beehives and a trench used to deter elephants.
+- Activity tags: Nature and Wildlife
+- Email: info@sunbirdhill.com
+- GPS: 0.424632, 30.410867
+- Led by: Private
+
+## The Elephant Home
+- ID: 163
+- District: Kasese
+- Supplier type: Accommodation
+- Contact number: +256 706 581 477
+- Region: Western
+- Listing type: Business
+- Website: https://theelephanthome.com/community-activities-to-volunteer-with-at-the-elephant-home/
+- Experiences offered: Wildlife tours, Bird watching, Nature walks
+- Description: The Elephant Home offers lodging in Kasese District. Guests take wildlife tours, bird watching and nature walks. It says it works to support a healthy and safe environment for guests, the community and wildlife.
+- Activity tags: Art and Handicrafts, Nature and Wildlife
+- Email: theelephanthome@gmail.com
+- GPS: 0.010487, 29.999920
+- Led by: Private
+
+## Three heroes - Kagando
+- ID: 223
+- District: Kasese
+- Supplier type: Activities
+- Region: Western
+- Listing type: Place
+- Nearest town or village: Kagando
+- Experiences offered: Learning about Bakonzo war history
+- Description: Three Heroes at Kagando, Kasese District, is where visitors learn about the war history of the Bakonzo people.
+- Activity tags: Cultural Heritage & Traditions
+- GPS: 0.065180, 29.898880
+- Led by: Private
+
+## Timu Eco camps
+- ID: 213
+- District: Moroto
+- Supplier type: Accommodation
+- Contact number: +256 776 833 901
+- Region: Northern
+- Listing type: Business
+- Website: https://www.kara-tunga.com/eco-camps/
+- Description: Timu Eco-Camp is on the East African Rift escarpment at 2,000 m, among the Ik community.
+- Activity tags: Art and Handicrafts, Cultural Heritage & Traditions, Food and Culinary, Nature and Wildlife
+- Email: info@kara-tunga.com
+- GPS: 2.500245, 34.681506
+- Led by: Community, Youth
+
+## Tooro Cultural Tourism Center
+- ID: 188
+- District: Kamwenge
+- Supplier type: Activities
+- Contact number: +256 783 953 261
+- Region: Western
+- Listing type: Business
+- Experiences offered: Cultural tours, Traditional dance performance
+- Description: At Tooro Cultural Tourism Center, guests learn about Batooro life through Empaako, a tradition of pet names given as a sign of love and respect. They also see millet, cassava and coffee ground and pounded by hand with stones and mortars, and watch traditional dance.
+- Activity tags: Cultural Heritage & Traditions, Performing Arts
+- Email: toorocultural@gmail.com
+- GPS: 0.406676, 30.409256
+- Led by: Community
+
+## Tooro Gallery
+- ID: 200
+- District: Kabarole
+- Supplier type: Activities
+- Contact number: +256 782 270 227
+- Region: Western
+- Listing type: Business
+- Nearest town or village: Fort Portal
+- Website: https://toorogallery.org/
+- Experiences offered: Omuka museum tour, Basket weaving, Dye mixing techniques, Learning tours
+- Description: Tooro Gallery in Fort Portal supports women and young people through arts and crafts, with skills training and access to markets so artisans can earn an income. It uses local, eco-friendly materials.
+
+Visitors tour the Omuka museum, try basket weaving, learn dye-mixing techniques and join learning tours.
+- Activity tags: Art and Handicrafts, Cultural Heritage & Traditions, Performing Arts
+- Email: toorogallery@gmail.com
+- GPS: 0.654980, 30.302240
+- Led by: Community, Women
+
+## Tooro Kingdom Palace
+- ID: 191
+- District: Kabarole
+- Supplier type: Activities
+- Contact number: +256 774 056 769
+- Region: Western
+- Listing type: Place
+- Nearest town or village: Fort Portal
+- Website: https://toorokingdom.org/tourist-attraction/karuzika-royal-palace/
+- Experiences offered: Site visit, Storytelling
+- Description: Tooro Kingdom Palace in Fort Portal is a place to learn about the history of the Tooro Kingdom. Visitors tour the site and hear stories.
+- Activity tags: Cultural Heritage & Traditions
+- Email: afrikapanthera@gmail.com
+- GPS: 0.647031, 30.268482
+- Led by: Community
+
+## Turaco Treetops
+- ID: 169
+- Travelife / Fairtrade: Engaged
+- District: Kabarole
+- Supplier type: Accommodation
+- Contact number: +256 757 152 323
+- Region: Western
+- Listing type: Business
+- Website: https://www.turacotreetops.com/
+- Experiences offered: Birdwatching, Hiking, Nature walks, Wildlife tours, Chimpanzee trekking, Gorilla trekking, Community tours
+- Description: Turaco Treetops is a lodge on a patch of rainforest outside Kibale National Park, with rooms, cottages and a swimming pool. Guests watch birds, hike, take nature walks, wildlife tours and community tours, and can arrange chimpanzee and gorilla trekking.
+
+The lodge says it is largely solar-powered, sources locally where possible and avoids single-use plastics. It supports forest restoration through the Chris Roberts Forest Foundation and has held the Fair Trade Tourism Engaged certificate since 2025.
+- Activity tags: Farm & Agricultural Tourism, Nature and Wildlife
+- Protected area: Kibale National Park
+- Email: info@turacotreetops.com
+- GPS: 0.403569, 30.383377
+- Led by: Private
+
+## Uganda Museum
+- ID: 192
+- District: Kampala
+- Supplier type: Activities
+- Contact number: +256 414 355 000
+- Region: Central
+- Listing type: Place
+- Nearest town or village: Kampala
+- Experiences offered: Site visit, Storytelling
+- Description: The Uganda Museum in Kampala exhibits ethnological, natural history and traditional life collections of Uganda's cultural heritage. It was founded in 1908.
+
+Visitors tour the museum and hear storytelling.
+- Activity tags: Art and Handicrafts, Cultural Heritage & Traditions
+- Email: reservations@wildlife.go.ug
+- GPS: 0.336341, 32.582586
+- Led by: Government
+
+## Uganda Wildlife Education Center (UWEC)
+- ID: 162
+- District: Wakiso
+- Supplier type: Activities
+- Contact number: +256 414 320 520
+- Region: Central
+- Listing type: Place
+- Nearest town or village: Entebbe
+- Website: https://uwec.ug/
+- Experiences offered: Keeper for a day, Day visits, Forest trail
+- Description: The Uganda Wildlife Education Centre in Entebbe is a place to see and learn about Uganda's animals and the ecosystems they live in. Visitors can be a keeper for a day, make day visits and walk the forest trail.
+- Activity tags: Nature and Wildlife
+- Email: info@uwec.go.ug
+- GPS: 0.054561, 32.479401
+- Led by: Government
+
+## Utalii Creative
+- ID: 139
+- Supplier type: Activities
+- Contact number: +256 773 855 144
+- Listing type: Business
+- Website: https://zzimbagames.com/projects/utali/
+- Experiences offered: Cultural creative games
+- Description: Utalii Creative is a women-led enterprise in Kampala. Visitors can play cultural creative games and buy souvenirs. It says it promotes cultural preservation through souvenirs and media.
+- Activity tags: Art and Handicrafts
+- Email: info@utaliicreative.com
+- Led by: Women
+
+## ViaVia Entebbe
+- ID: 166
+- District: Wakiso
+- Supplier type: Accommodation
+- Contact number: +256 781 524 991
+- Region: Central
+- Listing type: Business
+- Nearest town or village: Entebbe
+- Website: https://entebbe.viavia.world/
+- Experiences offered: Cultural tours, Wildlife safaris, Community engagement, Culinary experiences
+- Description: ViaVia Entebbe offers accommodation in Entebbe. Guests take cultural tours, wildlife safaris and culinary experiences, and meet the community. ViaVia says working with local entrepreneurs is one of its focus points.
+- Activity tags: Art and Handicrafts, Outdoor Adventures
+- Email: entebbe@viavia.world
+- GPS: 0.078431, 32.471958
+- Led by: Community, Private
+
+## Volcanoes Safaris
+- ID: 167
+- District: Bunyangabu
+- Supplier type: Accommodation
+- Contact number: +256 414 346 464
+- Region: Western
+- Listing type: Business
+- Website: https://volcanoessafaris.com/
+- Experiences offered: Hiking, Bird watching, Cultural tours, Nature walks
+- Description: Volcanoes Safaris runs lodges in Uganda and Rwanda. Guests hike, watch birds, take cultural tours and nature walks.
+
+Its non-profit, the Volcanoes Safaris Partnership Trust (set up in 2009), links the lodges to neighbouring communities and conservation work. The record says the company gives $50 per guest night to the trust.
+- Activity tags: Cultural Heritage & Traditions, Nature and Wildlife
+- Email: enquiries@volcanoessafaris.com
+- GPS: 0.448332, 30.279893
+- Led by: Community, Private
+
+## WAWOTO KACEL
+- ID: 199
+- District: Gulu
+- Supplier type: Activities
+- Contact number: +256 779 939 180
+- Region: Northern
+- Listing type: Business
+- Experiences offered: Hand-dyeing, Weaving, Paper bead making
+- Description: WAWOTO KACEL is a cooperative in Gulu District that makes items using tailoring, weaving, tie-dye, paper beads, knitting and embroidery. Visitors are taken through how hand-dyed and woven items and paper beads are made.
+- Activity tags: Art and Handicrafts
+- GPS: 2.761023, 32.291093
+- Led by: Private
+
+## Wi Gwen Muchwini memorial
+- ID: 151
+- District: Kitgum
+- Supplier type: Activities
+- Contact number: +256 783 269 681
+- Region: Northern
+- Listing type: Place
+- Website: https://loremitours.com/
+- Experiences offered: Cultural tours, Historical storytelling, Community engagement, Educational workshops
+- Description: Wi Gwen Muchwini Memorial in Kitgum District is linked to the liberation war and is the burial site of Archbishop Luwum, commemorated on 16 February 2015.
+
+Visitors take cultural tours, hear historical stories, meet the community and join educational workshops.
+- Activity tags: Cultural Heritage & Traditions
+- Email: info@loremitours.com
+- GPS: 3.430868, 33.010001
+- Led by: Community
+
+## WiPolo martyrs shrine
+- ID: 145
+- District: Agago
+- Supplier type: Activities
+- Contact number: +256 783 269 681
+- Region: Northern
+- Listing type: Place
+- Nearest town or village: Paimol
+- Website: https://loremitours.com/
+- Experiences offered: Pilgrimage, Cultural heritage tours, Religious tourism
+- Description: WiPolo Martyrs Shrine at Paimol, Agago District, is a pilgrimage site. Daudi Okello and Jildo Irwa were martyred at Paimol in 1918 and beatified in 2010, and the record also links the site to Saint Josephine Bakhita.
+
+Visitors come for pilgrimage, religious tourism and cultural heritage tours.
+- Activity tags: Cultural Heritage & Traditions
+- Email: info@loremitours.com
+- GPS: 3.155098, 33.426641
+- Led by: Community
+
+## Ziwa Rhino and Wildlife Ranch
+- ID: 189
+- District: Nakasongola
+- Supplier type: Accommodation, Activities
+- Contact number: +256 785 552 801
+- Region: Central
+- Listing type: Business
+- Website: https://ziwarhinoandwildliferanch.com/
+- Experiences offered: Nature walks, Birding tours, Rhino treks, Shoebill trek, Camping
+- Description: Ziwa Rhino & Wildlife Ranch in Nakasongola District offers a campsite and guest houses. Visitors take nature walks, birding tours, rhino treks and a shoebill trek, and camp.
+
+The ranch says its night cameras often record porcupines, aardvarks and other nocturnal animals.
+- Activity tags: Nature and Wildlife
+- Email: bookings@ziwarhinoandwildliferanch.com
+- GPS: 1.485692, 32.095288
+- Led by: Private
+
+## Ziwa Rhino Sanctuary
+- ID: 173
+- District: Nakasongola
+- Supplier type: Activities
+- Contact number: +256 312 355 000
+- Region: Central
+- Listing type: Place
+- Experiences offered: Rhino trekking, Shoebill trek, Canoe ride, Birding, Night walk, Nature walks
+- Description: Ziwa Rhino Sanctuary in Nakasongola District is home to 32 southern white rhinos, according to the record. Visitors go rhino trekking, shoebill trekking and canoeing, bird watching, night walks and nature walks.
+- Activity tags: Conservation, Nature and Wildlife
+- Email: info@wildlife.go.ug
+- GPS: 1.485947, 32.095748
+- Led by: Government
