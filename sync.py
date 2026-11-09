@@ -1,4 +1,4 @@
-import json, os, urllib.request
+import json, os, sys, urllib.request, urllib.error
 
 TOKEN = os.environ["NOTION_TOKEN"].strip()
 DB_ID = os.environ["NOTION_DB_ID"].strip()
@@ -8,7 +8,7 @@ DB_ID = os.environ["NOTION_DB_ID"].strip()
 EXCLUDE = {"Status", "Contributor", "Source"}
 
 def query(cursor=None):
-    body = {"page_size": 100, "sorts": [{"property": "Name", "direction": "ascending"}]}
+    body = {"page_size": 100}
     if cursor:
         body["start_cursor"] = cursor
     req = urllib.request.Request(
@@ -21,8 +21,12 @@ def query(cursor=None):
         },
         method="POST",
     )
-    with urllib.request.urlopen(req) as r:
-        return json.load(r)
+    try:
+        with urllib.request.urlopen(req) as r:
+            return json.load(r)
+    except urllib.error.HTTPError as e:
+        print("Notion said:", e.read().decode())
+        sys.exit(1)
 
 def text(prop):
     t = prop["type"]
@@ -52,6 +56,11 @@ while True:
     if not data["has_more"]:
         break
     cursor = data["next_cursor"]
+
+def title_of(row):
+    return next((text(p) for p in row["properties"].values() if p["type"] == "title"), "")
+
+rows.sort(key=lambda r: title_of(r).lower())
 
 lines = ["# Uganda responsible tourism suppliers", f"{len(rows)} entries", ""]
 for row in rows:
