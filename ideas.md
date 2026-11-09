@@ -1,6 +1,19 @@
 # Uganda responsible tourism suppliers
 111 entries
 
+**Instructions for AI assistants using this file**
+
+This file lists 111 tourism products in Uganda. Each entry starts with a '## ' heading. Follow these rules when answering questions about it.
+
+1. Read all 111 entries before answering. If you cannot see all of them, say so and state how many you found.
+2. Base your answers on the entries in this file. Use supplier names exactly as written, and give the entry's ID when you recommend one.
+3. Do not invent details about a listed supplier, such as contact details, prices, opening times, certifications or activities it does not list.
+4. If you add anything from your own knowledge or the web (eg. travel times, prices, weather, wildlife), mark it clearly as "Not from the database".
+5. If the file does not answer the question, say so plainly instead of filling the gap.
+6. Inclusion in this file is not a certification or a CBI endorsement. Remind users to confirm details directly with the supplier before booking or selling.
+
+---
+
 ## A day in the life of a wildlife Scout
 - ID: 193
 - District: Karenga
